@@ -1,0 +1,80 @@
+---
+title: "How to softmod your PS2"
+---
+
+## Soft-modding the PS2
+
+### FreeMCBoot (FMCB)
+
+Free Memory Card Boot, a.k.a FreeMCBoot or FMCB is the solution for most PS2 models. Later 90000-series models require another solution, covered separately.
+
+FMCB cards can run several programs. Some essential ones are
+
+* Open PS2 Loader (OPL)
+* uLaunchElf
+
+### Fortuna, FunTuna, OpenTuna
+Todo
+
+## Playing backup ISOs
+
+### Via USB
+
+Not recommended, as USB 1 is too slow for FMVs and games struggle to play.
+
+### Via HDD
+
+A great option.
+
+### Via local network
+
+Todo.
+
+### Via MC2SIO
+
+An easy option.
+
+## How to use MC2SIO
+
+https://youtu.be/3fqhS1QuGcs
+
+Every PS2 game manual:
+
+https://kotaku.com/ps2-manuals-archive-scans-4k-playstation-jak-sly-cooper-1849696809
+
+https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version
+
+## PS2 models
+
+https://www.ps2-home.com/forum/app.php/page/fmcb-compatible-ps2-models-chart
+
+## Softmod options
+
+### MC2SIO https://heldergametech.com/shop/ps2/mc2sio-microsd-iso-loader/
+
+Memory card ISO loader:
+https://hackaday.com/2022/02/15/ps2-memory-card-iso-loader-offers-classic-gaming-bliss/
+
+### Fortuna project
+
+https://www.ps2-home.com/forum/viewtopic.php?t=8542
+
+https://www.ps2-home.com/forum/viewtopic.php?f=120&t=9101
+
+https://www.ps2-home.com/forum/viewtopic.php?f=120&t=9091
+
+### How to setup a Samba server
+
+https://magpi.raspberrypi.com/articles/samba-file-server
+
+SMB server?
+
+### Free DVD Boot
+
+https://www.ps2-home.com/forum/viewtopic.php?f=123&t=9653
+
+https://www.ps2-home.com/forum/viewtopic.php?t=5341
+
+## Accessories
+
+https://retrofrog.net/products/playstation-2-fat-and-slim-vertical-stands

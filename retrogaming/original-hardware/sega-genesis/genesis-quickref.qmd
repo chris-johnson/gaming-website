@@ -1,0 +1,51 @@
+---
+title: "Sega Genesis quickref"
+---
+
+## Genesis
+
+Speed: 7.6MHz
+512 colors
+64 simultaneous colors
+320 × 224 resolution
+80 sprites
+32 × 63 size
+
+Games with save batteries:
+
+https://segaretro.org/Battery_backup#List_of_games_which_use_battery_backups
+
+Accessible via Xbox, Steam, etc.
+
+## Sega Saturn
+
+The following Saturn and Dreamcast games can be played on Xbox. Todo: Move Dreamcast games to their own section.
+
+* Daytona USA (this port is especially amazing) PS3
+* Fighting Vipers
+* Guardian Heroes
+* Nights Into Dreams
+* Panzer Dragoon (if you play 5 or more hours or finish Panzer Dragoon Orta on any difficulty you unlock this)
+* Radiant Silvergun
+* Virtua Fighter 2
+* Sonic Fighters
+
+https://gamefaqs.gamespot.com/boards/691088-xbox-one/77095639?page=3
+
+## Dreamcast
+
+* Crazy Taxi
+* Cyber Troopers Virtual-On Oratorio Tangram
+* Ikaruga
+* Jet Set Radio
+* Resident Evil Code Veronica (was on Dreamcast first so I'm counting it)
+* Rez (also PS2)
+* Sega Bass Fishing
+* Shenmue
+* Shenmue 2
+* Soulcalibur (missing the main single player mode)
+* Space Channel 5
+* Pier Solar and the Great Architects
+* Sonic Adventure 1
+* Sonic Adventure 2
+* Slave Zero

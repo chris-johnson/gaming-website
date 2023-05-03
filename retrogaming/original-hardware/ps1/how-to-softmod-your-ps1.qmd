@@ -1,0 +1,59 @@
+---
+title: "How to softmod your PS1"
+---
+
+## Soft-modding the PS1
+
+The PS1 can be soft-modded by creating a UNIROM memory card. Below are instructions on how to install UNIROM onto a standard PS1 memory card.
+
+Note: If your console model is SCPH-1001 or SCPH-9002, two memory cards are required.
+
+Gather
+
+* PS2
+* Memory card with FMCB or FHDB installed
+* FAT32-formatted USB drive
+
+Creating a UNIROM card is accomplished with a PS2, a program called Memory Card (MC) Annihilator, and FreePSXBoot (the exploit for the PS1). A memory card with FreePSXBoot installed is known as a UNIROM card.
+
+MC Annihilator is an elf program that can be launched with LaunchELF. It is used to format the PS1 card (if not already formatted) and "restore" the FreePSXBoot image.
+
+### Prepare the USB drive
+
+#### Download FreePSXBoot
+
+The software is provided at https://www.github.com/brad-lin/FreePSXBoot/releases
+
+Get the model number from the PS1 (e.g. SCPH-101). Find that model in the table, then copy the associated installer filename (extension mcd).
+
+Scroll down, and find the hyperlink to the installer.
+
+#### Download MC Annihilator
+
+Go to PSX-Place and download MC Annihilator (software) by ffgriever.
+
+https://www.psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/
+
+Extract "MC Annihilator v2.0.zip". Copy the extracted folder and the FreePSXBoot software (mcd file) to the root of the USB drive.
+
+### Create the UNIROM card
+
+Insert the USB drive into one of the PS2's USB ports. Insert the FMCB card into the left slot and the PS1 card into the right slot. Boot up the PS2. Launch LaunchELF (or uLaunchELF).
+
+Find mass0:/. Open the folder for MC Annihilator. Run mca_v20.elf. Select Slot 2.
+
+Note: If the PS1 card has not been formatted, MC Annihilator has a format utility. Regardless of if you format it with the PS1 or PS2 ahead of time, or format it with MC Annihilator's formatting tool, just make sure to do it. Tl;dr: Format the PS1 memory card.
+
+Run "Restore MC image". Find mass0:/ and drill into it. Press R2 to reveal the mcd file. (R2 disables the file mask.) Select the mcd file. This writes the image to the PS1 card. Power off the PS2, and remove the PS1 card and USB drive.
+
+### Using UNIROM
+
+Plug the PS1 card into the left slot on the PS1. Turn on the PS1. UNIROM will load and a home screen will appear. The UNIROM card can be removed.
+
+The Boot CD allows backup discs to be played. It can also run original discs from other regions or backups of those.
+
+## Accessories
+
+https://retrofrog.net/products/playstation-1-vertical-stand
+
+https://castlemaniagames.com/products/memcard-pro

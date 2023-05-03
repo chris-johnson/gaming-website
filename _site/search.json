@@ -9,8 +9,449 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "gaming-website",
+    "title": "Chris’s gaming website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is my website to help me manage all the gaming information I’ve learned."
+  },
+  {
+    "objectID": "wii.html",
+    "href": "wii.html",
+    "title": "Wii stuff",
+    "section": "",
+    "text": "Wii stuff will go here."
+  },
+  {
+    "objectID": "wii.html#a-wild-subsection-appears",
+    "href": "wii.html#a-wild-subsection-appears",
+    "title": "Wii stuff",
+    "section": "A wild subsection appears",
+    "text": "A wild subsection appears\nHello, I’m the subsection content!"
+  },
+  {
+    "objectID": "wii-softmod.html",
+    "href": "wii-softmod.html",
+    "title": "Softmodding the Wii",
+    "section": "",
+    "text": "Softmodding the Wii, blah blah blah."
+  },
+  {
+    "objectID": "retrogaming/wii/wii.html",
+    "href": "retrogaming/wii/wii.html",
+    "title": "Wii stuff",
+    "section": "",
+    "text": "Wii stuff will go here."
+  },
+  {
+    "objectID": "retrogaming/wii/wii.html#a-wild-subsection-appears",
+    "href": "retrogaming/wii/wii.html#a-wild-subsection-appears",
+    "title": "Wii stuff",
+    "section": "A wild subsection appears",
+    "text": "A wild subsection appears\nHello, I’m the subsection content!"
+  },
+  {
+    "objectID": "retrogaming/wii/wii-softmod.html",
+    "href": "retrogaming/wii/wii-softmod.html",
+    "title": "Softmodding the Wii",
+    "section": "",
+    "text": "Softmodding the Wii, blah blah blah."
+  },
+  {
+    "objectID": "coming-soon.html",
+    "href": "coming-soon.html",
+    "title": "I’m coming",
+    "section": "",
+    "text": "This page is under construction."
+  },
+  {
+    "objectID": "retrogaming/wii/index.html",
+    "href": "retrogaming/wii/index.html",
+    "title": "Index for Wii",
+    "section": "",
+    "text": "No really, I don’t know what I’m doing."
+  },
+  {
+    "objectID": "retrogaming/ps3/index.html",
+    "href": "retrogaming/ps3/index.html",
+    "title": "Index for PS3",
+    "section": "",
+    "text": "I’m the PS3 splash page. Hear me roar!"
+  },
+  {
+    "objectID": "retrogaming/index.html",
+    "href": "retrogaming/index.html",
+    "title": "Retrogaming",
+    "section": "",
+    "text": "NES, SNES, Genesis, N64, Wii, PS1, PS2, PS3"
+  },
+  {
+    "objectID": "modern-gaming/xbsx/index.html",
+    "href": "modern-gaming/xbsx/index.html",
+    "title": "XBSX overview",
+    "section": "",
+    "text": "It’s awesome."
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-account-mgmt.html",
+    "href": "modern-gaming/ps5/ps5-account-mgmt.html",
+    "title": "PS5 account management",
+    "section": "",
+    "text": "You need to know how to manage your account."
+  },
+  {
+    "objectID": "modern-gaming/pc/index.html",
+    "href": "modern-gaming/pc/index.html",
+    "title": "Building a gaming PC",
+    "section": "",
+    "text": "Awesome."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/index.html",
+    "href": "retrogaming/original-hardware/index.html",
+    "title": "General topics",
+    "section": "",
+    "text": "WTF mate"
+  },
+  {
+    "objectID": "modern-gaming/index.html",
+    "href": "modern-gaming/index.html",
+    "title": "Modern gaming",
+    "section": "",
+    "text": "Xbox Series X, PS5, PSVR2"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/wii.html",
+    "href": "retrogaming/original-hardware/wii/wii.html",
+    "title": "Wii stuff",
+    "section": "",
+    "text": "Wii stuff will go here."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/wii.html#a-wild-subsection-appears",
+    "href": "retrogaming/original-hardware/wii/wii.html#a-wild-subsection-appears",
+    "title": "Wii stuff",
+    "section": "A wild subsection appears",
+    "text": "A wild subsection appears\nHello, I’m the subsection content!"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/wii-softmod.html",
+    "href": "retrogaming/original-hardware/wii/wii-softmod.html",
+    "title": "Softmodding the Wii",
+    "section": "",
+    "text": "Softmodding the Wii, blah blah blah."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps3/how-to-softmod-your-ps3.html",
+    "href": "retrogaming/original-hardware/ps3/how-to-softmod-your-ps3.html",
+    "title": "How to softmod your PS3",
+    "section": "",
+    "text": "Todo."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/how-to-softmod-your-wii.html",
+    "href": "retrogaming/original-hardware/wii/how-to-softmod-your-wii.html",
+    "title": "How to softmod your Wii",
+    "section": "",
+    "text": "Softmodding the Wii, blah blah blah."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/getting-started-with-the-wii.html",
+    "href": "retrogaming/original-hardware/wii/getting-started-with-the-wii.html",
+    "title": "Getting started with the Wii",
+    "section": "",
+    "text": "Wii stuff will go here."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/getting-started-with-the-wii.html#a-wild-subsection-appears",
+    "href": "retrogaming/original-hardware/wii/getting-started-with-the-wii.html#a-wild-subsection-appears",
+    "title": "Getting started with the Wii",
+    "section": "A wild subsection appears",
+    "text": "A wild subsection appears\nHello, I’m the subsection content!"
+  },
+  {
+    "objectID": "retrogaming/emulation/frontends/retroarch.html",
+    "href": "retrogaming/emulation/frontends/retroarch.html",
+    "title": "Retroarch",
+    "section": "",
+    "text": "About RetroArch."
+  },
+  {
+    "objectID": "modern-gaming/pc/build-a-gaming-pc.html",
+    "href": "modern-gaming/pc/build-a-gaming-pc.html",
+    "title": "Building a gaming PC",
+    "section": "",
+    "text": "Awesome."
+  },
+  {
+    "objectID": "tabletop-gaming/index.html",
+    "href": "tabletop-gaming/index.html",
+    "title": "Tabletop gaming",
+    "section": "",
+    "text": "Stuff about tabletop gaming."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps1/softmodding-your-ps1.html",
+    "href": "retrogaming/original-hardware/ps1/softmodding-your-ps1.html",
+    "title": "Soft-modding your PS1",
+    "section": "",
+    "text": "The PS1 can be soft-modded by creating a UNIROM memory card. Below are instructions on how to install UNIROM onto a standard PS1 memory card.\nNote: If your console model is SCPH-1001 or SCPH-9002, two memory cards are required.\nGather\n\nPS2\nMemory card with FMCB or FHDB installed\nFAT32-formatted USB drive\n\nCreating a UNIROM card is accomplished with a PS2, a program called Memory Card (MC) Annihilator, and FreePSXBoot (the exploit for the PS1). A memory card with FreePSXBoot installed is known as a UNIROM card.\nMC Annihilator is an elf program that can be launched with LaunchELF. It is used to format the PS1 card (if not already formatted) and “restore” the FreePSXBoot image.\n\n\n\n\nThe software is provided at https://www.github.com/brad-lin/FreePSXBoot/releases\nGet the model number from the PS1 (e.g. SCPH-101). Find that model in the table, then copy the associated installer filename (extension mcd).\nScroll down, and find the hyperlink to the installer.\n\n\n\nGo to PSX-Place and download MC Annihilator (software) by ffgriever.\nhttps://www.psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/\nExtract “MC Annihilator v2.0.zip”. Copy the extracted folder and the FreePSXBoot software (mcd file) to the root of the USB drive.\n\n\n\n\nInsert the USB drive into one of the PS2’s USB ports. Insert the FMCB card into the left slot and the PS1 card into the right slot. Boot up the PS2. Launch LaunchELF (or uLaunchELF).\nFind mass0:/. Open the folder for MC Annihilator. Run mca_v20.elf. Select Slot 2.\nNote: If the PS1 card has not been formatted, MC Annihilator has a format utility. Regardless of if you format it with the PS1 or PS2 ahead of time, or format it with MC Annihilator’s formatting tool, just make sure to do it. Tl;dr: Format the PS1 memory card.\nRun “Restore MC image”. Find mass0:/ and drill into it. Press R2 to reveal the mcd file. (R2 disables the file mask.) Select the mcd file. This writes the image to the PS1 card. Power off the PS2, and remove the PS1 card and USB drive.\n\n\n\nPlug the PS1 card into the left slot on the PS1. Turn on the PS1. UNIROM will load and a home screen will appear. The UNIROM card can be removed.\nThe Boot CD allows backup discs to be played. It can also run original discs from other regions or backups of those."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps1/softmodding-your-ps1.html#accessories",
+    "href": "retrogaming/original-hardware/ps1/softmodding-your-ps1.html#accessories",
+    "title": "Soft-modding your PS1",
+    "section": "Accessories",
+    "text": "Accessories\nhttps://retrofrog.net/products/playstation-1-vertical-stand\nhttps://castlemaniagames.com/products/memcard-pro"
+  },
+  {
+    "objectID": "retrogaming/game-preservation/krikzz-everdrives.html#super-everdrive-x6",
+    "href": "retrogaming/game-preservation/krikzz-everdrives.html#super-everdrive-x6",
+    "title": "Krikzz EverDrives",
+    "section": "Super EverDrive X6",
+    "text": "Super EverDrive X6"
+  },
+  {
+    "objectID": "retrogaming/game-preservation/krikzz-everdrives.html#everdrive-64-x7",
+    "href": "retrogaming/game-preservation/krikzz-everdrives.html#everdrive-64-x7",
+    "title": "Krikzz EverDrives",
+    "section": "EverDrive 64 X7",
+    "text": "EverDrive 64 X7"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/wii/index.html",
+    "href": "retrogaming/original-hardware/wii/index.html",
+    "title": "Index for Wii",
+    "section": "",
+    "text": "No really, I don’t know what I’m doing."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.html",
+    "href": "retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.html",
+    "title": "How to softmod your PS1",
+    "section": "",
+    "text": "The PS1 can be soft-modded by creating a UNIROM memory card. Below are instructions on how to install UNIROM onto a standard PS1 memory card.\nNote: If your console model is SCPH-1001 or SCPH-9002, two memory cards are required.\nGather\n\nPS2\nMemory card with FMCB or FHDB installed\nFAT32-formatted USB drive\n\nCreating a UNIROM card is accomplished with a PS2, a program called Memory Card (MC) Annihilator, and FreePSXBoot (the exploit for the PS1). A memory card with FreePSXBoot installed is known as a UNIROM card.\nMC Annihilator is an elf program that can be launched with LaunchELF. It is used to format the PS1 card (if not already formatted) and “restore” the FreePSXBoot image.\n\n\n\n\nThe software is provided at https://www.github.com/brad-lin/FreePSXBoot/releases\nGet the model number from the PS1 (e.g. SCPH-101). Find that model in the table, then copy the associated installer filename (extension mcd).\nScroll down, and find the hyperlink to the installer.\n\n\n\nGo to PSX-Place and download MC Annihilator (software) by ffgriever.\nhttps://www.psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/\nExtract “MC Annihilator v2.0.zip”. Copy the extracted folder and the FreePSXBoot software (mcd file) to the root of the USB drive.\n\n\n\n\nInsert the USB drive into one of the PS2’s USB ports. Insert the FMCB card into the left slot and the PS1 card into the right slot. Boot up the PS2. Launch LaunchELF (or uLaunchELF).\nFind mass0:/. Open the folder for MC Annihilator. Run mca_v20.elf. Select Slot 2.\nNote: If the PS1 card has not been formatted, MC Annihilator has a format utility. Regardless of if you format it with the PS1 or PS2 ahead of time, or format it with MC Annihilator’s formatting tool, just make sure to do it. Tl;dr: Format the PS1 memory card.\nRun “Restore MC image”. Find mass0:/ and drill into it. Press R2 to reveal the mcd file. (R2 disables the file mask.) Select the mcd file. This writes the image to the PS1 card. Power off the PS2, and remove the PS1 card and USB drive.\n\n\n\nPlug the PS1 card into the left slot on the PS1. Turn on the PS1. UNIROM will load and a home screen will appear. The UNIROM card can be removed.\nThe Boot CD allows backup discs to be played. It can also run original discs from other regions or backups of those."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.html#accessories",
+    "href": "retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.html#accessories",
+    "title": "How to softmod your PS1",
+    "section": "Accessories",
+    "text": "Accessories\nhttps://retrofrog.net/products/playstation-1-vertical-stand\nhttps://castlemaniagames.com/products/memcard-pro"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps3/stock-ps3.html",
+    "href": "retrogaming/original-hardware/ps3/stock-ps3.html",
+    "title": "Stock PS3",
+    "section": "",
+    "text": "A few notes:\n\nGames can only be purchased on the console.\nFunds have to be pre-loaded to your account using the PlayStation Store or PS5.\nGames must be downloaded from the store listing (at time of writing).\nDigital titles need 2 × (game size) amount of free hard drive space to install.\n\n\n\n\nGo to https://store.playstation.com/\nSign in\nClick your avatar (upper-right corner), then click Payment Management, then click Add Funds.\nChoose a funding method and select one of the options ($5, …, $60).\n\n\n\n\n\nSettings > Users and Accounts\nAccount > Payment and Subscriptions > Add Funds\n\n\n\n\n\n\n\nhttps://en.m.wikipedia.org/wiki/List_of_PlayStation_3_games\n\n\n\nhttps://en.m.wikipedia.org/wiki/List_of_PlayStation_2_Classics_for_PlayStation_3"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps3/stock-ps3.html#custom-firmware",
+    "href": "retrogaming/original-hardware/ps3/stock-ps3.html#custom-firmware",
+    "title": "Stock PS3",
+    "section": "Custom firmware",
+    "text": "Custom firmware\nBacking up discs Backing up with custom firmware (CWF) Backing up PS3 discs PS3 discs can only be backed up with a shortlist of Blu-Ray drives or using a PS3 with custom firmware (CFW).\nRPCS3 provides a list of Blu-Ray drives that can successfully rip PS3 discs. This method requires using a third-party software to retrieve files that decrypt (?) the discs.\nHow to do things on the PS3…\nThe PS3 Move Controllers work without a battery:\nhttps://gamefaqs.gamespot.com/boards/927750-playstation-3/71118884\nPress and hold power button to enter safe mode.\nOfficial PS3 firmware download: https://www.playstation.com/en-us/support/hardware/ps3/system-software/\nBrewology webMAN Drop pkg file onto FAT32 Activate HEN Package Manager > Install Package Files > Standard Scroll down to installer System will restart webMAN games PS3 webMAN\nSet to SYSCON\nAccess critical system information from the XMB\nHold select to open VSH menu Option to dump disc to hard drive\nCan also let you remote play from your PC (just have to visit IP address in browser on PC)\nPS1, PS2, and PS3 games can be played on PS3 RetroArch can be installed on PS3"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps3/stock-ps3.html#references",
+    "href": "retrogaming/original-hardware/ps3/stock-ps3.html#references",
+    "title": "Stock PS3",
+    "section": "References",
+    "text": "References\nhttps://www.tomsguide.com/opinion/buy-ps3-games-online\nhttps://www.playstation.com/en-us/support/store/ps-store-top-up-wallet/"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html",
+    "title": "How to softmod your PS2",
+    "section": "",
+    "text": "Free Memory Card Boot, a.k.a FreeMCBoot or FMCB is the solution for most PS2 models. Later 90000-series models require another solution, covered separately.\nFMCB cards can run several programs. Some essential ones are\n\nOpen PS2 Loader (OPL)\nuLaunchElf\n\n\n\n\nTodo"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#playing-backup-isos",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#playing-backup-isos",
+    "title": "How to softmod your PS2",
+    "section": "Playing backup ISOs",
+    "text": "Playing backup ISOs\n\nVia USB\nNot recommended, as USB 1 is too slow for FMVs and games struggle to play.\n\n\nVia HDD\nA great option.\n\n\nVia local network\nTodo.\n\n\nVia MC2SIO\nAn easy option."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#how-to-use-mc2sio",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#how-to-use-mc2sio",
+    "title": "How to softmod your PS2",
+    "section": "How to use MC2SIO",
+    "text": "How to use MC2SIO\nhttps://youtu.be/3fqhS1QuGcs\nEvery PS2 game manual:\nhttps://kotaku.com/ps2-manuals-archive-scans-4k-playstation-jak-sly-cooper-1849696809\nhttps://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#ps2-models",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#ps2-models",
+    "title": "How to softmod your PS2",
+    "section": "PS2 models",
+    "text": "PS2 models\nhttps://www.ps2-home.com/forum/app.php/page/fmcb-compatible-ps2-models-chart"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#softmod-options",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#softmod-options",
+    "title": "How to softmod your PS2",
+    "section": "Softmod options",
+    "text": "Softmod options\n\nMC2SIO https://heldergametech.com/shop/ps2/mc2sio-microsd-iso-loader/\nMemory card ISO loader: https://hackaday.com/2022/02/15/ps2-memory-card-iso-loader-offers-classic-gaming-bliss/\n\n\nFortuna project\nhttps://www.ps2-home.com/forum/viewtopic.php?t=8542\nhttps://www.ps2-home.com/forum/viewtopic.php?f=120&t=9101\nhttps://www.ps2-home.com/forum/viewtopic.php?f=120&t=9091\n\n\nHow to setup a Samba server\nhttps://magpi.raspberrypi.com/articles/samba-file-server\nSMB server?\n\n\nFree DVD Boot\nhttps://www.ps2-home.com/forum/viewtopic.php?f=123&t=9653\nhttps://www.ps2-home.com/forum/viewtopic.php?t=5341"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#accessories",
+    "href": "retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.html#accessories",
+    "title": "How to softmod your PS2",
+    "section": "Accessories",
+    "text": "Accessories\nhttps://retrofrog.net/products/playstation-2-fat-and-slim-vertical-stands"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html",
+    "href": "modern-gaming/ps5/ps5-quickref.html",
+    "title": "PS5 quickref",
+    "section": "",
+    "text": "https://www.playstation.com/en-us/support/hardware/ps5-4k-resolution-guide/"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html#storage-upgrade",
+    "href": "modern-gaming/ps5/ps5-quickref.html#storage-upgrade",
+    "title": "PS5 quickref",
+    "section": "Storage upgrade",
+    "text": "Storage upgrade\nhttps://www.ign.com/articles/best-ps5-ssd https://www.playstation.com/en-us/accessories/storage-solutions/"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html#ps-plus",
+    "href": "modern-gaming/ps5/ps5-quickref.html#ps-plus",
+    "title": "PS5 quickref",
+    "section": "PS Plus",
+    "text": "PS Plus\nhttps://blog.playstation.com/2022/05/23/your-guide-to-the-all-new-playstation-plus/"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html#classics-catalog",
+    "href": "modern-gaming/ps5/ps5-quickref.html#classics-catalog",
+    "title": "PS5 quickref",
+    "section": "Classics Catalog",
+    "text": "Classics Catalog\nHow it works:\nhttps://www.eurogamer.net/digitalfoundry-2014-sony-creates-custom-ps3-for-playstation-now"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html#ps-vr2",
+    "href": "modern-gaming/ps5/ps5-quickref.html#ps-vr2",
+    "title": "PS5 quickref",
+    "section": "PS VR2",
+    "text": "PS VR2"
+  },
+  {
+    "objectID": "modern-gaming/ps5/ps5-quickref.html#references",
+    "href": "modern-gaming/ps5/ps5-quickref.html#references",
+    "title": "PS5 quickref",
+    "section": "References",
+    "text": "References\nhttps://www.makeuseof.com/ps5-how-to-use-gameslists/\nhttps://www.makeuseof.com/ps5-first-things-to-do/\nhttps://www.playstation.com/en-us/support/games/create-gamelist/"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html",
+    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html",
+    "title": "Nintendo quickref",
+    "section": "",
+    "text": "Games with batteries: https://www.dkoldies.com/blog/-complete-list-of-nintendo-nes-games-with-save-batteries/"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#snes",
+    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#snes",
+    "title": "Nintendo quickref",
+    "section": "SNES",
+    "text": "SNES\n\nCables\nhttps://www.hdretrovision.com/snes\n\n\nFacts\nSpeed: 3.6MHz 32768 colors 256 simultaneous colors 512 × 448 resolution 128 sprites 64 × 64 size\n\n\nOther\nGames with batteries: https://www.dkoldies.com/blog/complete-list-of-snes-games-with-save-batteries/\nScanned manuals: https://sites.google.com/view/snesmanuals\n\n\nEmulators\nSNES9X (SNES) ZSNES (SNES)\nhttps://www.retrorgb.com/snestips.html https://castlemaniagames.com/collections/replacement-housings/products/snes-transparent-case?variant=39790161166418\nhttps://www.shapeways.com/product/MARFTPFQQ/unisn2-tray-for-snes-2?optionId=56237730"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#nintendo-64",
+    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#nintendo-64",
+    "title": "Nintendo quickref",
+    "section": "Nintendo 64",
+    "text": "Nintendo 64\nAuthoritative source: https://www.retrorgb.com/n64.html\nGames listed under 256Kbit SRAM have save batteries: http://micro-64.com/database/gamesave.shtml\nN64 manuals: https://sites.google.com/view/n64manuals\nhttps://retrostage.net/?product=n64-blaster-2-0/\nWobbling Pixels recommends the following S-video cable: https://www.ebay.de/itm/233708952325#shpCntId\nN64 supports S-video without modification. See intro of https://youtu.be/XPV4LMic1R4\nSee also: https://www.retrorgb.com/n64cablecsync.html\nAnd https://insurrectionindustries.com/product/nintendo-s-video/\nBest bet: https://www.retrogamingcables.co.uk/SUPER-NINTENDO-NTSC-GAMECUBE-N64-S-VIDEO-SUPER-FAMICOM-CABLE-FULLY-SHIELDED-75-OHM?tracking=5543fb4c077bb\nA cheaper option: https://stoneagegamer.com/snes-n64-famicom-av-gamecube-s-video-cable-ttx.html\nNew funtastic shells: https://www.kickstarter.com/projects/trogg-tech/n64-the-new-funtastic-series\nRepair:\nOldSkool Sharpshooter thumbstick\nhttps://stoneagegamer.com/n64-replacement-joystick-repair-box.html\nhttps://stoneagegamer.com/nintendo-64-replacement-rear-rubber-feet-retro-frog.html\nhttps://stoneagegamer.com/replacement-gears-for-nintendo-64-controller-fix-broken-analog-sticks-n64.html\nhttps://steelsticks64.com/\nAwesome replacement part: https://steelsticks64.com/\nhttps://stoneagegamer.com/retro-fighters-brawler64-wireless-n64-controller-game-controller.html\nMy models:\nOriginal, purchased in-person in Richmond, KY: NS114992246\nNew, purchased on eBay: NS123443562 (sold)\n\nEmulators\nN64: No BIOS. Games are self-contained.\n\n\nAccessories\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-wireless-dongle-support-for-brawler64-and-tribute64\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-replacement-rear-rubber-feet"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#wii",
+    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#wii",
+    "title": "Nintendo quickref",
+    "section": "Wii",
+    "text": "Wii"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#switch",
+    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#switch",
+    "title": "Nintendo quickref",
+    "section": "Switch",
+    "text": "Switch\nhttps://en-americas-support.nintendo.com/app/answers/detail/a_id/22746/~/inquiries-about-leaving-the-nintendo-switch-console-docked\nhttps://www.reviewgeek.com/1036/should-you-buy-physical-or-digital-switch-games/\nhttps://stoneagegamer.com/retro85-mini-nes-cartridge-nintendo-switch-game-cases.html\nhttps://stoneagegamer.com/retro-fighters-duelist-wireless-controller-for-nintendo-switch.html\nhttps://nyxigame.com/product/nyxi-wizard-wireless-joy-pad/"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/nes-classic-edition.html",
+    "href": "retrogaming/mini-consoles/nes-classic-edition.html",
+    "title": "NES Classic Edition",
+    "section": "",
+    "text": "Balloon Fight™\nBUBBLE BOBBLE\nCastlevania™\nCastlevania II: Simon’s Quest™\nDonkey Kong™\nDonkey Kong Jr.™\nDOUBLE DRAGON II: THE REVENGE\nDr. Mario™\nExcitebike™\nFINAL FANTASY®\nGalaga™\nGHOSTS’N GOBLINS®\nGRADIUS™\nKid Icarus™\nKirby’s Adventure™\nMario Bros.™\nMEGA MAN 2™\nMetroid™\nMEGA MAN™\nNINJA GAIDEN\nPAC-MAN™\nPunch-Out!!™ Featuring Mr. Dream\nStarTropics™\nSUPER C™\nSuper Mario Bros.™\nSuper Mario Bros.™ 2\nSuper Mario Bros.™ 3\nTECMO BOWL\nThe Legend of Zelda™\nZelda II: The Adventure of Link™"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/snes-classic-edition.html",
+    "href": "retrogaming/mini-consoles/snes-classic-edition.html",
+    "title": "SNES Classic Edition",
+    "section": "",
+    "text": "https://www.nintendo.co.jp/clvs/manuals/en_us/index.html"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/genesis-mini-1.html",
+    "href": "retrogaming/mini-consoles/genesis-mini-1.html",
+    "title": "Sega Genesis Mini 1",
+    "section": "",
+    "text": "Alex Kidd in the Enchanted Castle (region exclusive)\nAltered Beast (region exclusive)\nDr. Robotnik’s Mean Bean Machine (region exclusive, sort of - it’s essentially a reskinned Puyo Puyo)\nEarthworm Jim (region exclusive)\nEcco the Dolphin (region exclusive)\nEternal Champions (region exclusive)\nKid Chameleon (region exclusive)\nLight Crusader (region exclusive)\nShinobi III: Return of the Ninja Master (region exclusive)\nSonic the Hedgehog Spinball (region exclusive)\nToeJam & Earl (region exclusive)\nVectorman (region exclusive)\nVirtua Fighter 2 (region exclusive)\nAlisia Dragoon\nBeyond Oasis (The Story of Thor: A Successor of the Light)\nCastle of Illusion Starring Mickey Mouse\nCastlevania: Bloodlines\nComix Zone\nColumns\nContra: Hard Corps\nDarius - brand new port!\nDynamite Headdy\nGhouls ’n Ghosts\nGolden Axe\nGunstar Heroes\nLandstalker\nMega Man: The Wily Wars\nMonster World IV\nPhantasy Star IV: The End of the Millennium\nRoad Rash II\nShining Force\nSonic the Hedgehog\nSonic the Hedgehog 2\nSpace Harrier II\nStreet Fighter II’: Special Champion Edition\nStreets of Rage 2\nStrider\nSuper Fantasy Zone\nTetris - ridiculously rare version!\nThunder Force III\nWonder Boy in Monster World\nWorld of Illusion Starring Mickey Mouse and Donald Duck"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/genesis-mini-2.html",
+    "href": "retrogaming/mini-consoles/genesis-mini-2.html",
+    "title": "Sega Genesis Mini 2",
+    "section": "",
+    "text": "After Burner II\nAlien Soldier\nAtomic Runner\nBonanza Bros.\nClayFighter\nCrusader of Centy\nDesert Strike: Return to the Gulf\nEarthworm Jim 2\nElemental Master\nFatal Fury 2\nGain Ground\nGolden Axe II\nGranada\nHellfire\nHerzog Zwei\nLightening Force: Quest for the Darkstar\nMidnight Resistance\nOutRun\nOutRunners\nPhantasy Star II\nPopulous\nRAINBOW ISLANDS -EXTRA-\nRanger-X\nRistar\nROLLING THUNDER 2\nShadow Dancer: The Secret of Shinobi\nShining Force II\nShining in the Darkness\nSonic 3D Blast\nSPLATTERHOUSE 2\nStreets of Rage 3\nSuper Hang-On\nSUPER STREET FIGHTER II THE NEW CHALLENGERS\nThe Ooze\nThe Revenge of Shinobi\nToeJam & Earl in Panic on Funkotron\nTruxton\nVectorMan 2\nViewpoint\nVirtua Racing\nWarsong\nEcco the Dolphin (Sega CD)\nEcco: The Tides of Time (Sega CD)\nFinal Fight CD (Sega CD)\nMansion of Hidden Souls (Sega CD)\nNIGHT STRIKER (Sega CD)\nNight Trap (Sega CD)\nRobo Aleste (Sega CD)\nSewer Shark (Sega CD)\nShining Force CD (Sega CD)\nSILPHEED (Sega CD)\nSonic CD (Sega CD)\nTHE NINJA WARRIORS (Sega CD)\nDevi & Pii (Special Content)\nFantasy Zone (Special Content)\nSpace Harrier II + Space Harrier (Special Content)\nSpatter (Special Content)\nStar Mobile (Special Content)\nSuper Locomotive (Special Content)\nVS Puyo Puyo Sun (Special Content)"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/playstation-classic.html",
+    "href": "retrogaming/mini-consoles/playstation-classic.html",
+    "title": "PlayStation Classic",
+    "section": "",
+    "text": "Battle Arena Toshinden\nCool Boarders 2\nDestruction Derby\nFinal Fantasy VII\nGrand Theft Auto\nIntelligent Qube\nJumping Flash\nMetal Gear Solid\nMr Driller\nOddworld: Abe’s Oddysee\nRayman\nResident Evil Director’s Cut\nRevelations: Persona\nRidge Racer Type 4\nSuper Puzzle Fighter II Turbo\nSyphon Filter\nTekken 3\nTom Clancy’s Rainbow Six\nTwisted Metal\nWild Arms"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/snes-classic-edition.html#how-to-use",
+    "href": "retrogaming/mini-consoles/snes-classic-edition.html#how-to-use",
+    "title": "SNES Classic Edition",
+    "section": "How to use",
+    "text": "How to use\nhttps://www.nintendo.co.jp/clvs/manuals/en_us/manual.html"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/snes-classic-edition.html#games",
+    "href": "retrogaming/mini-consoles/snes-classic-edition.html#games",
+    "title": "SNES Classic Edition",
+    "section": "Games",
+    "text": "Games\nhttps://en-americas-support.nintendo.com/app/answers/detail/a_id/26387/~/which-games-are-included-in-the-super-nes-classic-edition%3F"
+  },
+  {
+    "objectID": "retrogaming/mini-consoles/snes-classic-edition.html#game-list",
+    "href": "retrogaming/mini-consoles/snes-classic-edition.html#game-list",
+    "title": "SNES Classic Edition",
+    "section": "Game list",
+    "text": "Game list\n\nContra III: The Alien Wars\nDonkey Kong Country\nKirby Super Star\nKirby’s Dream Course\nSecret of Mana\nStreet Fighter II Turbo: Hyper Fighting\nSuper Mario Kart\nSuper Mario World\nFinal Fantasy III\nSuper Castlevania IV\nEarthBound\nF-ZERO\nMega Man X\nStar Fox\nStar Fox 2\nSuper Ghouls ’n Ghosts\nSuper Mario RPG: Legend of the Seven Stars\nSuper Metroid\nSuper Punch-Out!!\nThe Legend of Zelda: A Link to the Past\nYoshi’s Island"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html",
+    "href": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html",
+    "title": "Sega Genesis quickref",
+    "section": "",
+    "text": "Speed: 7.6MHz 512 colors 64 simultaneous colors 320 × 224 resolution 80 sprites 32 × 63 size\nGames with save batteries:\nhttps://segaretro.org/Battery_backup#List_of_games_which_use_battery_backups\nAccessible via Xbox, Steam, etc."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html#sega-saturn",
+    "href": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html#sega-saturn",
+    "title": "Sega Genesis quickref",
+    "section": "Sega Saturn",
+    "text": "Sega Saturn\nThe following Saturn and Dreamcast games can be played on Xbox. Todo: Move Dreamcast games to their own section.\n\nDaytona USA (this port is especially amazing) PS3\nFighting Vipers\nGuardian Heroes\nNights Into Dreams\nPanzer Dragoon (if you play 5 or more hours or finish Panzer Dragoon Orta on any difficulty you unlock this)\nRadiant Silvergun\nVirtua Fighter 2\nSonic Fighters\n\nhttps://gamefaqs.gamespot.com/boards/691088-xbox-one/77095639?page=3"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html#dreamcast",
+    "href": "retrogaming/original-hardware/sega-genesis/genesis-quickref.html#dreamcast",
+    "title": "Sega Genesis quickref",
+    "section": "Dreamcast",
+    "text": "Dreamcast\n\nCrazy Taxi\nCyber Troopers Virtual-On Oratorio Tangram\nIkaruga\nJet Set Radio\nResident Evil Code Veronica (was on Dreamcast first so I’m counting it)\nRez (also PS2)\nSega Bass Fishing\nShenmue\nShenmue 2\nSoulcalibur (missing the main single player mode)\nSpace Channel 5\nPier Solar and the Great Architects\nSonic Adventure 1\nSonic Adventure 2\nSlave Zero"
   }
 ]

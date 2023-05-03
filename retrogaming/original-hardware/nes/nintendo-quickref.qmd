@@ -1,0 +1,116 @@
+---
+title: "Nintendo quickref"
+---
+
+## NES
+
+Games with batteries:
+https://www.dkoldies.com/blog/-complete-list-of-nintendo-nes-games-with-save-batteries/
+
+## SNES
+
+### Cables
+
+https://www.hdretrovision.com/snes
+
+### Facts
+
+Speed: 3.6MHz
+32768 colors
+256 simultaneous colors
+512 × 448 resolution
+128 sprites
+64 × 64 size
+
+### Other
+
+Games with batteries:
+https://www.dkoldies.com/blog/complete-list-of-snes-games-with-save-batteries/
+
+Scanned manuals:
+https://sites.google.com/view/snesmanuals
+
+### Emulators
+
+SNES9X (SNES)
+ZSNES (SNES)
+
+https://www.retrorgb.com/snestips.html
+https://castlemaniagames.com/collections/replacement-housings/products/snes-transparent-case?variant=39790161166418
+
+https://www.shapeways.com/product/MARFTPFQQ/unisn2-tray-for-snes-2?optionId=56237730
+
+## Nintendo 64
+
+Authoritative source: https://www.retrorgb.com/n64.html
+
+Games listed under 256Kbit SRAM have save batteries:
+http://micro-64.com/database/gamesave.shtml
+
+N64 manuals:
+https://sites.google.com/view/n64manuals
+
+https://retrostage.net/?product=n64-blaster-2-0/
+
+Wobbling Pixels recommends the following S-video cable: https://www.ebay.de/itm/233708952325#shpCntId
+
+N64 supports S-video without modification. See intro of https://youtu.be/XPV4LMic1R4
+
+See also: https://www.retrorgb.com/n64cablecsync.html
+
+And https://insurrectionindustries.com/product/nintendo-s-video/
+
+Best bet: https://www.retrogamingcables.co.uk/SUPER-NINTENDO-NTSC-GAMECUBE-N64-S-VIDEO-SUPER-FAMICOM-CABLE-FULLY-SHIELDED-75-OHM?tracking=5543fb4c077bb
+
+A cheaper option: https://stoneagegamer.com/snes-n64-famicom-av-gamecube-s-video-cable-ttx.html
+
+New funtastic shells: https://www.kickstarter.com/projects/trogg-tech/n64-the-new-funtastic-series
+
+Repair:
+
+OldSkool Sharpshooter thumbstick
+
+https://stoneagegamer.com/n64-replacement-joystick-repair-box.html
+
+https://stoneagegamer.com/nintendo-64-replacement-rear-rubber-feet-retro-frog.html
+
+https://stoneagegamer.com/replacement-gears-for-nintendo-64-controller-fix-broken-analog-sticks-n64.html
+
+https://steelsticks64.com/
+
+Awesome replacement part: https://steelsticks64.com/
+
+https://stoneagegamer.com/retro-fighters-brawler64-wireless-n64-controller-game-controller.html
+
+My models:
+
+Original, purchased in-person in Richmond, KY:
+NS114992246
+
+New, purchased on eBay:
+NS123443562 (sold)
+
+### Emulators
+
+N64: No BIOS. Games are self-contained.
+
+### Accessories
+
+https://retrofrog.net/collections/nintendo-64/products/nintendo-64-wireless-dongle-support-for-brawler64-and-tribute64
+
+https://retrofrog.net/collections/nintendo-64/products/nintendo-64-replacement-rear-rubber-feet
+
+## Wii
+
+
+## Switch
+
+https://en-americas-support.nintendo.com/app/answers/detail/a_id/22746/~/inquiries-about-leaving-the-nintendo-switch-console-docked
+
+https://www.reviewgeek.com/1036/should-you-buy-physical-or-digital-switch-games/
+
+https://stoneagegamer.com/retro85-mini-nes-cartridge-nintendo-switch-game-cases.html
+
+https://stoneagegamer.com/retro-fighters-duelist-wireless-controller-for-nintendo-switch.html
+
+https://nyxigame.com/product/nyxi-wizard-wireless-joy-pad/

@@ -1,0 +1,9 @@
+---
+title: "Getting started with the Wii"
+---
+
+Wii stuff will go here.
+
+## A wild subsection appears
+
+Hello, I'm the subsection content!

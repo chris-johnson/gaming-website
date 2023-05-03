@@ -1,0 +1,84 @@
+---
+title: "Stock PS3"
+---
+
+## Digital games on PS3
+
+### How to purchase digital games
+
+A few notes:
+
+* Games can only be purchased on the console.
+* Funds have to be pre-loaded to your account using the PlayStation Store or PS5.
+* Games must be downloaded from the store listing (at time of writing).
+* Digital titles need 2 × (game size) amount of free hard drive space to install.
+
+#### PlayStation Store method
+
+1. Go to https://store.playstation.com/
+2. Sign in
+3. Click your avatar (upper-right corner), then click Payment Management, then click Add Funds.
+4. Choose a funding method and select one of the options ($5, …, $60).
+
+#### PS5 method
+
+1. Settings > Users and Accounts
+2. Account > Payment and Subscriptions > Add Funds
+
+### Available games
+
+#### PS3 games
+
+https://en.m.wikipedia.org/wiki/List_of_PlayStation_3_games
+
+#### PS2 classics on PS3
+
+https://en.m.wikipedia.org/wiki/List_of_PlayStation_2_Classics_for_PlayStation_3
+
+## Custom firmware
+
+Backing up discs
+Backing up with custom firmware (CWF)
+Backing up PS3 discs
+PS3 discs can only be backed up with a shortlist of Blu-Ray drives or using a PS3 with custom firmware (CFW).
+
+RPCS3 provides a list of Blu-Ray drives that can successfully rip PS3 discs. This method requires using a third-party software to retrieve files that decrypt (?) the discs.
+
+How to do things on the PS3…
+
+The PS3 Move Controllers work without a battery:
+
+https://gamefaqs.gamespot.com/boards/927750-playstation-3/71118884
+
+Press and hold power button to enter safe mode.
+
+Official PS3 firmware download:
+https://www.playstation.com/en-us/support/hardware/ps3/system-software/
+
+Brewology
+webMAN
+Drop pkg file onto FAT32
+Activate HEN
+Package Manager > Install Package Files > Standard
+Scroll down to installer
+System will restart
+webMAN games
+PS3 webMAN 
+
+Set to SYSCON
+
+Access critical system information from the XMB
+
+Hold select to open VSH menu
+Option to dump disc to hard drive
+
+Can also let you remote play from your PC (just have to visit IP address in browser on PC)
+
+PS1, PS2, and PS3 games can be played on PS3
+RetroArch can be installed on PS3
+
+## References
+
+https://www.tomsguide.com/opinion/buy-ps3-games-online
+
+https://www.playstation.com/en-us/support/store/ps-store-top-up-wallet/

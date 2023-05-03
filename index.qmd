@@ -1,7 +1,6 @@
 ---
-title: "gaming-website"
+title: "Chris's gaming website"
+subtitle: "Video gaming (retro and modern) and tabletop gaming"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my website to help me manage all the gaming information I've learned.

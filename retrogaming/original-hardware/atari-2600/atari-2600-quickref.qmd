@@ -1,0 +1,16 @@
+---
+title: "Atari 2600 quickref"
+---
+
+## Hooking up original hardware
+
+Gather an Atari 2600 (henceforth "Atari"), an Atari 2600 game cartridge (henceforth "cart"), a VCR, an RCA to F adapter (henceforth "adapter"), and component cables.
+
+Set channel switch on Atari to 2
+Attach F end of adapter to VCR, then plug Atari RCA cable into it.
+Link the VCR and TV with the component cables.
+Turn on TV and set to Channel 2.
+Turn on VCR and set to Channel 2.
+Put the cart in the Atari and power it on.
+
+Enjoy video game.

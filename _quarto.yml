@@ -2,12 +2,106 @@ project:
   type: website
 
 website:
-  title: "gaming-website"
+  title: "Chris's gaming website"
+  
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      # - text: "About"
+      #   href: about.qmd
+      - text: "Retrogaming"
+        href: retrogaming/index.qmd
+      - text: "Modern gaming"
+        href: modern-gaming/index.qmd
+        
+  sidebar:
+    
+    - id: retrogaming
+      collapse-level: 1
+      contents:
+        - retrogaming/index.qmd
+        
+        - section: "Original hardware"
+          contents:
+            - section: "Nintendo"
+              contents:
+                - section: "NES"
+                  contents:
+                    - retrogaming/original-hardware/nes/nintendo-quickref.qmd
+                - section: "SNES"
+                - section: "Nintendo 64"
+                - section: "Wii"
+                  contents:
+                  - retrogaming/original-hardware/wii/getting-started-with-the-wii.qmd
+                  - retrogaming/original-hardware/wii/how-to-softmod-your-wii.qmd
+            - section: "Sega"
+              contents:
+                - section: "Sega Genesis"
+                  contents:
+                    - retrogaming/original-hardware/sega-genesis/sega-genesis-quickref.qmd
+            - section: "PlayStation"
+              contents:
+                - section: "PS1"
+                  contents:
+                    - retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.qmd
+                - section: "PS2"
+                  contents:
+                    - retrogaming/original-hardware/ps2/how-to-softmod-your-ps2.qmd
+                - section: "PS3"
+                  contents:
+                    - retrogaming/original-hardware/ps3/stock-ps3.qmd
+                    - retrogaming/original-hardware/ps3/how-to-softmod-your-ps3.qmd
+        
+        - section: "Mini consoles"
+          contents:
+            - section: "Nintendo"
+              contents:
+                - retrogaming/mini-consoles/nes-classic-edition.qmd
+                - retrogaming/mini-consoles/snes-classic-edition.qmd
+            - section: "Sega"
+              contents:
+                - retrogaming/mini-consoles/genesis-mini-1.qmd
+                - retrogaming/mini-consoles/genesis-mini-2.qmd
+            - retrogaming/mini-consoles/playstation-classic.qmd
+        
+        - section: "Emulation"
+          contents:
+            - section: "Emulation frontends"
+              contents:
+                - retrogaming/emulation/frontends/retroarch.qmd
+                - retrogaming/emulation/frontends/retroarch-cores.qmd
+            - section: "Emulation hardware"
+              contents:
+                - retrogaming/emulation/hardware/mister.qmd
+            - section: "Standalone emulators"
+              contents:
+                - retrogaming/emulation/standalone-emulators/duckstation.qmd
+                - retrogaming/emulation/standalone-emulators/pcsx2.qmd
+                - retrogaming/emulation/standalone-emulators/rpcs3.qmd
+                - retrogaming/emulation/standalone-emulators/dolphin.qmd
+        
+        - section: "Game preservation"
+          contents:
+            - retrogaming/game-preservation/krikzz-everdrives.qmd
+            - retrogaming/game-preservation/how-to-backup-ps1-and-ps2-games.qmd
+            - retrogaming/game-preservation/how-to-backup-ps3-games.qmd
+    
+    - id: modern-gaming
+      contents:
+        - modern-gaming/index.qmd
+        - section: "Console gaming"
+          contents:
+            - section: "PS5"
+              contents:
+                - modern-gaming/ps5/ps5-quickref.qmd
+                - modern-gaming/ps5/ps5-account-mgmt.qmd
+            - section: "Xbox Series X"
+              contents:
+                - modern-gaming/xbsx/index.qmd
+        - section: "PC gaming"
+          contents:
+            - modern-gaming/pc/build-a-gaming-pc.qmd
 
 format:
   html:
