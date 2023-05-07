@@ -28,9 +28,13 @@ website:
               contents:
                 - section: "NES"
                   contents:
-                    - retrogaming/original-hardware/nes/nintendo-quickref.qmd
+                    - retrogaming/original-hardware/nes/nes.qmd
                 - section: "SNES"
+                  contents:
+                    - retrogaming/original-hardware/snes/snes.qmd
                 - section: "Nintendo 64"
+                  contents:
+                    - retrogaming/original-hardware/n64/n64.qmd
                 - section: "Wii"
                   contents:
                   - retrogaming/original-hardware/wii/getting-started-with-the-wii.qmd
@@ -99,6 +103,10 @@ website:
             - section: "Xbox Series X"
               contents:
                 - modern-gaming/xbsx/index.qmd
+            - section: "Switch"
+              contents:
+                - modern-gaming/switch/switch.qmd
+        - section: "VR gaming"
         - section: "PC gaming"
           contents:
             - modern-gaming/pc/build-a-gaming-pc.qmd
