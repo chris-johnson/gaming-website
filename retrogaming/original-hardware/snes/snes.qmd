@@ -1,0 +1,34 @@
+---
+title: "SNES"
+---
+
+## Cables
+
+https://www.hdretrovision.com/snes
+
+## Facts
+
+Speed: 3.6MHz
+32768 colors
+256 simultaneous colors
+512 × 448 resolution
+128 sprites
+64 × 64 size
+
+## Other
+
+Games with batteries:
+https://www.dkoldies.com/blog/complete-list-of-snes-games-with-save-batteries/
+
+Scanned manuals:
+https://sites.google.com/view/snesmanuals
+
+## Emulators
+
+SNES9X (SNES)
+ZSNES (SNES)
+
+https://www.retrorgb.com/snestips.html
+https://castlemaniagames.com/collections/replacement-housings/products/snes-transparent-case?variant=39790161166418
+
+https://www.shapeways.com/product/MARFTPFQQ/unisn2-tray-for-snes-2?optionId=56237730
