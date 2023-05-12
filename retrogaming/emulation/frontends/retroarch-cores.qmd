@@ -1,3 +1,23 @@
 ---
 title: "RetroArch cores"
 ---
+
+## NES emulators
+
+TODO
+
+## SNES emulators
+
+### bsnes
+
+TODO
+
+## Genesis emulators
+
+TODO
+
+## N64 emulators
+
+### Mupen64Plus
+
+https://mupen64plus.org/wiki/index.php?title=GameCompatibility

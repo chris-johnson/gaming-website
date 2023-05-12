@@ -1,3 +1,23 @@
 ---
 title: "RetroBlaster 2.0"
 ---
+
+## Firmware updates
+
+Occasionally, new RetroBlaster 2.0 firmware is released made that can be installed by a user on their device.
+
+### How to update the firmware
+
+https://youtu.be/4ylNR73qHHQ
+
+## Dumping ROMs
+
+Dumping ROMs is covered in a document about backing up games across all systems of interest.
+
+## Writing ROMs
+
+The RetroBlaster 2.0 can also write ROMs to RetroStage's Blaster cartridges. This is the main differentiator from the simpler Retrode 2. The Blaster cartridges are reusable and are compatible with original hardware.
+
+### How to write ROMs to Blaster carts
+
+TODO

@@ -3,3 +3,5 @@ title: "XBSX overview"
 ---
 
 It's awesome.
+
+https://support.xbox.com/en-US/help/hardware-network/console/position-ventilate-console

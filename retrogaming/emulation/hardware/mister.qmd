@@ -1,3 +1,14 @@
 ---
 title: "MiSTeR"
 ---
+
+## Items needed
+
+* DE-10 Nano
+* micro-SD reader
+* micro-USB hub
+* USB keyboard (small, wireless)
+* RAM module
+* case (cases made by community)
+* Wi-Fi dongle (to download software)
+* Bluetooth adapter (for modern controllers, though USB controllers work too)

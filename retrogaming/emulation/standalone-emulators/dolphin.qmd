@@ -1,3 +1,28 @@
 ---
 title: "Dolphin"
 ---
+
+Dumping the Wii BIOS
+Not necessary for most games, however some games need the BIOS. To-do at a later time.
+
+## How to back up Wii games
+
+Tools required:
+
+Wii
+Homebrew Channel
+Other stuff, I’m sure
+
+## Premier emulators for Windows
+
+### Dolphin
+
+Todo at a later time.
+
+## Premier emulators for Android
+
+Todo at a later time.
+
+## References
+
+https://docs.libretro.com/library/dolphin/

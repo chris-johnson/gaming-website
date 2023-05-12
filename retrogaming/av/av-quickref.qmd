@@ -1,0 +1,68 @@
+---
+title: "AV quickref"
+---
+
+## Interlaced, progressive scan, etc.
+
+i means interlaced
+p means progressive scan (not interlaced)
+
+A family of resolutions is denoted by some number of rows followed by i or p. 720p refers to the family of resolutions with 720 rows and some number of columns. The rows and columns define the aspect ratio. Some are very common.
+
+Specific resolutions have trade names (wc?) like SD, HD, QHD, 4K, 8K, etc. These are harder to interpret. This can be thought of as spatial resolution.
+
+TVs and monitors also have a temporal resolution. The refresh rate is provided in Hertz (Hz), occurrences per second.
+
+The number of pixels is the product of the rows and columns. Because this number is large, it is often expressed in megapixels, where mega is 10^6 or 1 million. For example, 2560 × 1440 = 3686400 pixels. Question: Pixels is obviously a square. meters × meters = meters^2. What is the unit for rows and columns? Are pixel dimensions standard? Obviously they can be blown up on screen, but on the physical monitor, are they standardized?
+
+3686400 pixels is ~3.69 × 10^6 pixels, or ~3.68 megapixels.
+
+## Monitors
+
+FPS: How many frames the GPU can produce per second
+
+Refresh rate: How many frames the monitor can display per second
+
+Screen tearing occurs when the monitor displays a frame before the GPU has finished rendering it. This is fixed with V-Sync.
+
+This is why you have the option to decrease the resolution. Not only does the GPU need to render an image (which all can do), but it needs to do it quickly and repeatedly.
+
+> It’s also important to remember that even if your gaming PC is capable of generating 90 FPS in your favorite game at your preferred settings, and even if your monitor supports 90Hz, 120Hz or more, you could still be capped by the lower refresh rate capabilities of the ports on your graphics card and display. Read our blog post on DisplayPort vs HDMI vs DVI vs VGA to learn about the pros, cons and limitations of the different types of connections. For example, some gaming monitors feature 120Hz refresh rates, but have HDMI 1.4 and DisplayPort 1.4. This means that you can only take advantage of the 120Hz refresh rate if your use DisplayPort; you’ll be stuck at 60Hz if you use HDMI.
+
+https://www.avadirect.com/blog/displayport-vs-hdmi-vs-dvi-vs-vga/ 
+
+https://www.avadirect.com/blog/frame-rate-fps-vs-hz-refresh-rate/amp/
+
+Monitors: responsive. TVs: Great image quality.
+
+Variables to consider
+Ports
+Display size
+Pixel density
+TV tuner
+Adjustable stand
+Easy to move
+Remote control
+HDR
+Built-in speakers
+
+https://www.ign.com/articles/gaming-monitor-vs-tv
+
+## YUV
+
+https://www.pcmag.com/encyclopedia/term/yuv
+
+Y, luma: brightness
+U, color signal: blue minus luma (B - Y). U = B - Y = Pb
+V, color signal: red minus luma (R - Y). V = R - Y = Pr
+
+Composite video: luma (Y) + color signals (B - Y, R - Y) in a single channel (single yellow RCA cable). The OG.
+S-Video: single cable, two wires. One wire carries luma, the other wire carries color signals. Sharper.
+Component video: luma and color signals are maintained in separate channels. Sharpest.
+
+YUV = Y (B - Y) (R - Y) = YPbPr
+
+RGB is thus converted to YUV (composite), YPbPr (component analog), or YCbCr (component digital)
+
+yellow, red, and white cables are called RCA cable
+

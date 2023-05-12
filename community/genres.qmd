@@ -1,0 +1,80 @@
+---
+title: ""
+---
+
+* Action
+    * Platform
+    * Shooter
+    * Fighting
+    * Beam ‘em ups (a.k.a. brawlers)
+    * Stealth
+    * Survival
+    * Rhythm
+    * Battle Royale
+* Action-adventure
+    * Survival horror
+    * Metroidvania
+* Adventure
+    * Text adventures
+    * Graphic adventures
+    * Visual novels
+    * Interactive movies
+    * Real-time 3D adventures
+* Puzzle
+    * Breakout clone
+    * Logical
+        * Physics
+        * Coding
+    * Trial-and-error, exploration
+    * Hidden object
+    * Reveal the picture
+    * Tile-matching
+    * Traditional puzzle
+    * Puzzle-platform
+* Role-playing
+    * Action RPG
+    * MMORPG
+    * Roguelikes
+    * Tactical RPG
+    * Sandbox RPG
+    * First-person party-based RPG
+    * Monster tamer
+* Simulation
+    * Life
+    * Vehicle
+* Strategy
+    * 4X (explore, expand, exploit, exterminate)
+    * Artillery
+    * Auto battler
+    * Real-time strategy (RTS)
+    * Real-time tactics (RTT)
+    * Tower defense
+    * Turn-based strategy (TBS)
+    * Turn-based tactics (TBT)
+    * Wargame
+    * Grand strategy wargame
+* Sports
+    * Racing
+    * Sports game
+    * Competitive
+    * Sports-based fighting
+* Massively multiplayer online (MMO)
+* Board game, card game
+* Casino game
+* Casual game
+* Digital collectible card game
+* Gacha game
+* Horror
+* Idle
+* Logic
+* Party
+* Photography
+* Programming
+* Social deduction
+* Trivia
+* Typing
+
+Advergame
+Art game
+Casual game
+Christian game

@@ -1,0 +1,5 @@
+---
+title: "Raspberry Pi emulation machine"
+---
+
+https://arstechnica.com/gaming/2022/02/building-a-retro-gaming-super-console-with-100-and-a-raspberry-pi-2022-edition/?amp=1

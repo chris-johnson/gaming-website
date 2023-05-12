@@ -1,0 +1,29 @@
+---
+title: "PC gaming"
+---
+
+## Accessories
+
+Xbox Wireless Controller + Wireless Adapter for Windows: https://www.microsoft.com/en-us/d/xbox-wireless-controller-wireless-adapter-for-windows/8rdmhcqpftb3
+
+## Steam
+
+Todo.
+
+## Running games for older operating systems
+
+Options include Windows Compatibility Mode of using a virtual machine (VM).
+
+https://nerdschalk.com/how-to-run-old-games-on-windows-11/ 
+
+### Compatibility mode
+
+Todo
+
+### VMware
+
+https://stuff.mit.edu/afs/sipb/project/vmdialup/archive/i386_linux24.old/lib/vmware-console/help/esx/guestos-win98.htm
+
+### Virtual Box
+
+Todo

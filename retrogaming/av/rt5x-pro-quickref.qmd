@@ -1,0 +1,207 @@
+---
+title: "RetroTink-5X Pro quickref"
+---
+
+## Manual
+
+A link to the latest manual is located here: https://www.retrotink.com/product-page/5x-pro
+
+## Firmware updates
+
+Initial steps:
+
+Download the FTDI D2XX Drivers and install.
+Download the RetroTINK Firmware update tool and install by unzipping and running RT_FWUP.
+
+How to update the firmware:
+
+Download the appropriate HEX file from https://www.retrotink.com/post/retrotink-5x-pro-firmware-updates
+Plug your device into your computer's USB port while holding down the 'Menu' button. The LED should be RED indicating update mode.
+Run the RetroTINK Firmware Update tool. The installer will have left a shortcut on your desktop.
+Hit 'Search'. You should see 'FT232R USB UART' appear in the box.
+Hit 'Load HEX' and point to the .hex file you downloaded.
+Hit 'Flash'. The update process should start. If the window freezes, that is okay - the update should complete after a minute or two. Just be patient.
+Your device should reboot and be ready to use.
+
+If you accidentally interrupt the process, just start over from step 4.
+
+## Recommended settings
+
+### PS2
+
+https://www.retrorgb.com/ps2-recommended-retrotink-5x-pro-settings.html
+
+## Inputs
+
+The RetroTINK-5X Pro has the following video inputs:
+
+* Y/C port (this is S-Video, and it carries a video signal)
+* Pr jack, carries red signal
+* Pb jack, carries blue signal
+* Y jack 
+  * carries green signal when using component scheme
+  * carries total video signal when using composite scheme
+
+When using these video inputs, the accompanying audio is accepted by the stereo audio jacks: L for left channel, R for right channel.
+
+The valid combinations of the above are summarized in the following table:
+
+type       | video       | audio
+-----------|-------------|------
+component  | Y + Pb + Pr | L + R
+composite  | Y           | L + R
+Y/C video  | Y/C         | L + R
+
+The RetroTINK-5X Pro also has a SCART input, which integrates video and audio. There are two variants of SCART: CVBS (video signal carried on one pin, poor) and RGB (video signal carried on four pins, better).
+
+<!-- Pr/R, Y/G, Pb/B? -->
+
+<!-- The reason that composite sucks is because all the components are sent via a single signal. These are mapped onto a carrier signal and then parsed back out based on voltages or something. Component is a better solution because the red, green, and blue don't need to be parsed. -->
+
+### Y vs. YPbPr
+
+The composite video scheme (Y) is a single wire (and thus single signal, and hence *composite*). The component video (YPbPr) scheme provides a higher quality connection than composite, because brightness (Y) and color components (Pb, Pr) are maintained separately.
+
+## Recommended hardware
+
+Use either
+
+* HD Retrovision component cables
+* fully-shielded/coaxial SCART RGB cables
+
+Output connection: Digital video connection
+
+Input resolutions:
+
+<!-- p vs. i should go here -->
+
+240p
+288p
+480i
+576i
+480p
+576p
+720p
+1080i
+
+Encoded standards:
+
+NTSC
+PAL
+PAL-60 (PAL-M, PAL-N, NTSC-443, SECAM enabled but not tested)
+
+Deinterlacer modes:
+
+motion adapative
+weave
+blend
+bob
+linear
+CRT simulation
+
+Output resolutions:
+
+240p
+480p
+720p
+768p
+1080p
+1200p
+1440p
+
+Latency: Approx. 0.25 frames in frame lock, 0.25 to 1.25 in triple buffered mode
+
+Power: < 800 mA over micro-USB
+
+
+Unit:
+
+Status LED will be
+
+* purple if YPbPr 
+* green if SCART RGB
+* yellow if CVBS (via tha Y RCA jack)
+* white if Y/C
+* cyan if CVBS (via SCART pin 20)
+* red if in firmware update mode
+
+The buttons on the unit are Menu, Option, and Input
+
+Press menu to display on-screen display (OSD) which appears in the top-left corner of the screen
+
+Line 1: menu option
+Line 2: setting
+
+Menu options include
+
+* input
+* output resolution
+* H. sampling (button)
+* interpolation (button)
+* scanline
+* vertical sync
+* deinterlacer
+* Y/C filter
+* colorspace
+* SDTV LPF
+* lightgun border
+* 240p downscale
+* version
+* RetroTINK logo
+* power off
+
+Questions:
+
+Will the RetroTINK automatically shut off?
+
+## Buttons
+
+If the OSD is active, pushing the input button will exit the OSD. If the OSD is inactive, the input button will cycle to the next input in the set of possible inputs.
+
+## Remote
+
+Todo.
+
+## Workflow
+
+Set target resolution on RetroTINK-5X Pro to match the TV or monitor that's being used.
+
+## Horizontal sampling (H. Sampling) 
+
+Presets for SNES, PS1, Genesis, N64
+
+<!-- Which consoles are 4:3? Which are 16:9? -->
+
+## Interpolation
+
+When the target resolution doesn't divide into the source resolution, interpolation occurs. "Sharp" is the bilinear sharp kernel is nearest neighbor + bilinear hybrid. "Soft" is a standard bilinear kernel.
+
+<!-- Discuss aliasing -->
+
+## Scanlines
+
+These are simply user preference. Technical aspects are trivial information. This is "icing on the cake", and sometimes no icing is the best choice.
+
+## Output resolution (Output Res.)
+
+For 1080p, there are three options:
+
+FILL uses all of the vertical height
+OVER cuts off the top and bottom of the image like a CRT
+UNDER adds black bars to the top and bottom
+
+These modes allow the screen to be shifted up or down interactively.
+
+## Deinterlacer
+
+Todo.
+
+## References
+
+RT5X Pro Manual v1
+[CVBS SCART vs. RGB SCART](https://forums.digitalspy.com/discussion/306179/difference-between-cvbs-and-rgb-scart-setting)
+[YPbPr definition](https://www.pcmag.com/encyclopedia/term/ypbpr)
+[YUV color space (model)](https://www.pcmag.com/encyclopedia/term/yuv)
+https://www.indiegogo.com/projects/the-sinden-lightgun/#/
+https://retrolabs.com/mods/retrotink-5x-remote-control-overlay-decal
+https://www.hdretrovision.com/

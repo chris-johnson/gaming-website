@@ -1,0 +1,82 @@
+---
+title: "Backup and archival quickref"
+---
+
+## Intro
+
+Backups are more frequently accessed than archival. Backups exist for data loss in the short term, whereas archival is for preserving data for the long term. (Archival can be used for the same purpose as a backup if backups are lost.)
+
+This document is specific to video games that require tools, skill, and work to back up, such as cartridges and discs.
+
+This document will also cover backing up digital purchases from the PS3 store. More platforms may be added in the future when hackers figure out solutions. It is worth noting here the contrast between Steam and GOG. Games purchased from GOG are DRM-free, meaning those files are yours and can be installed anywhere an unlimited amount of times.
+
+## Backing up games
+
+### Creating ISOs
+
+#### PS1 and PS2
+
+ISOs are required for PlayStation emulators, including DuckStation (PS1) and PCSX2 (PS2). ISOs can also be used with soft-modded PS2. To create an ISO file from a PS2 disc do the following:
+
+Put disc in optical drive
+Open Windows Subsystem for Linux (WSL)
+Submit dd if=/dev/cdrom of=/home/username/custom name.iso
+
+It is worth noting that ISO files can be made from files on disk using mkisofs -o customname.iso /home/username/folder-with-files
+
+#### PS3
+
+Backing up PS3 games can be done with custom firmware (recommended) or a supported Blu-Ray drive and third party tools.
+
+### Dumping ROMS
+
+#### Retrode 2
+
+I use this as my primary device for all consoles it supports, which includes Sega Genesis, SNES, SFC, N64, Game Boy, GBC, and GBA.
+
+The RetroStage RetroBlaster 2.0 has an adapter to dump NES games. Both the Retrode 2 and RetroStage Retro Blaster 2.0 can be used to legally back up games for most other systems.
+
+<table>
+  <tr>
+    <th>Console</th>
+    <th>File extension</th>
+    <th>What it is</th>
+  </tr>
+  <tr>
+    <td>Genesis</td>
+    <td>bin</td>
+    <td>game file</td>
+  </tr>
+  <tr>
+    <td>SNES</td>
+    <td>sfc</td>
+    <td>game file</td>
+  </tr>
+  <tr>
+    <td>SNES</td>
+    <td>srm</td>
+    <td>save file</td>
+  </tr>
+</table>
+
+#### RetroBlaster Programmer 2
+
+Although I have adapters for the consoles supported by the Retrode 2, I only use this device to backup NES games.
+
+## Archival strategies
+
+Insert info from the HowToGeek article (link in References).
+
+## References
+
+https://www.howtogeek.com/356473/how-to-archive-your-data-for-virtually-forever/
+
+Dumping ROMs
+NES
+The RetroStage Retro Blaster 2.0 has an adapter to dump NES games.
+
+https://youtu.be/4xXH9wzDlDk
+All other cartridge-based systems
+Both the Retrode 2 and RetroStage RetroBlaster 2.0 can be used to legally back up games for most other systems. The Retrode 2 is the preferred method for dumping ROMs as it doesn't require installing drivers or software.
+Retrode 2
+The Retrode 2 has two voltage settings. Make sure to set it to the correct setting before inserting any cartridge.

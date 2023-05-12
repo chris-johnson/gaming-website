@@ -84,6 +84,13 @@
     "text": "References\nhttps://www.makeuseof.com/ps5-how-to-use-gameslists/\nhttps://www.makeuseof.com/ps5-first-things-to-do/\nhttps://www.playstation.com/en-us/support/games/create-gamelist/"
   },
   {
+    "objectID": "modern-gaming/switch/switch.html",
+    "href": "modern-gaming/switch/switch.html",
+    "title": "Switch",
+    "section": "",
+    "text": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22746/~/inquiries-about-leaving-the-nintendo-switch-console-docked\nhttps://www.reviewgeek.com/1036/should-you-buy-physical-or-digital-switch-games/\nhttps://stoneagegamer.com/retro85-mini-nes-cartridge-nintendo-switch-game-cases.html\nhttps://stoneagegamer.com/retro-fighters-duelist-wireless-controller-for-nintendo-switch.html\nhttps://nyxigame.com/product/nyxi-wizard-wireless-joy-pad/"
+  },
+  {
     "objectID": "modern-gaming/xbsx/index.html",
     "href": "modern-gaming/xbsx/index.html",
     "title": "XBSX overview",
@@ -196,39 +203,32 @@
     "text": "Gather an Atari 2600 (henceforth “Atari”), an Atari 2600 game cartridge (henceforth “cart”), a VCR, an RCA to F adapter (henceforth “adapter”), and component cables.\nSet channel switch on Atari to 2 Attach F end of adapter to VCR, then plug Atari RCA cable into it. Link the VCR and TV with the component cables. Turn on TV and set to Channel 2. Turn on VCR and set to Channel 2. Put the cart in the Atari and power it on.\nEnjoy video game."
   },
   {
-    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html",
-    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html",
+    "objectID": "retrogaming/original-hardware/n64/n64.html",
+    "href": "retrogaming/original-hardware/n64/n64.html",
+    "title": "Nintendo 64",
+    "section": "",
+    "text": "Authoritative source: https://www.retrorgb.com/n64.html\nGames listed under 256Kbit SRAM have save batteries: http://micro-64.com/database/gamesave.shtml\nN64 manuals: https://sites.google.com/view/n64manuals\nhttps://retrostage.net/?product=n64-blaster-2-0/\nWobbling Pixels recommends the following S-video cable: https://www.ebay.de/itm/233708952325#shpCntId\nN64 supports S-video without modification. See intro of https://youtu.be/XPV4LMic1R4\nSee also: https://www.retrorgb.com/n64cablecsync.html\nAnd https://insurrectionindustries.com/product/nintendo-s-video/\nBest bet: https://www.retrogamingcables.co.uk/SUPER-NINTENDO-NTSC-GAMECUBE-N64-S-VIDEO-SUPER-FAMICOM-CABLE-FULLY-SHIELDED-75-OHM?tracking=5543fb4c077bb\nA cheaper option: https://stoneagegamer.com/snes-n64-famicom-av-gamecube-s-video-cable-ttx.html\nNew funtastic shells: https://www.kickstarter.com/projects/trogg-tech/n64-the-new-funtastic-series\nRepair:\nOldSkool Sharpshooter thumbstick\nhttps://stoneagegamer.com/n64-replacement-joystick-repair-box.html\nhttps://stoneagegamer.com/nintendo-64-replacement-rear-rubber-feet-retro-frog.html\nhttps://stoneagegamer.com/replacement-gears-for-nintendo-64-controller-fix-broken-analog-sticks-n64.html\nhttps://steelsticks64.com/\nAwesome replacement part: https://steelsticks64.com/\nhttps://stoneagegamer.com/retro-fighters-brawler64-wireless-n64-controller-game-controller.html\nMy models:\nOriginal, purchased in-person in Richmond, KY: NS114992246\nNew, purchased on eBay: NS123443562 (sold)"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/n64/n64.html#emulators",
+    "href": "retrogaming/original-hardware/n64/n64.html#emulators",
+    "title": "Nintendo 64",
+    "section": "Emulators",
+    "text": "Emulators\nN64: No BIOS. Games are self-contained."
+  },
+  {
+    "objectID": "retrogaming/original-hardware/n64/n64.html#accessories",
+    "href": "retrogaming/original-hardware/n64/n64.html#accessories",
+    "title": "Nintendo 64",
+    "section": "Accessories",
+    "text": "Accessories\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-wireless-dongle-support-for-brawler64-and-tribute64\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-replacement-rear-rubber-feet"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/nes/nes.html",
+    "href": "retrogaming/original-hardware/nes/nes.html",
     "title": "Nintendo quickref",
     "section": "",
     "text": "Games with batteries: https://www.dkoldies.com/blog/-complete-list-of-nintendo-nes-games-with-save-batteries/"
-  },
-  {
-    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#snes",
-    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#snes",
-    "title": "Nintendo quickref",
-    "section": "SNES",
-    "text": "SNES\n\nCables\nhttps://www.hdretrovision.com/snes\n\n\nFacts\nSpeed: 3.6MHz 32768 colors 256 simultaneous colors 512 × 448 resolution 128 sprites 64 × 64 size\n\n\nOther\nGames with batteries: https://www.dkoldies.com/blog/complete-list-of-snes-games-with-save-batteries/\nScanned manuals: https://sites.google.com/view/snesmanuals\n\n\nEmulators\nSNES9X (SNES) ZSNES (SNES)\nhttps://www.retrorgb.com/snestips.html https://castlemaniagames.com/collections/replacement-housings/products/snes-transparent-case?variant=39790161166418\nhttps://www.shapeways.com/product/MARFTPFQQ/unisn2-tray-for-snes-2?optionId=56237730"
-  },
-  {
-    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#nintendo-64",
-    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#nintendo-64",
-    "title": "Nintendo quickref",
-    "section": "Nintendo 64",
-    "text": "Nintendo 64\nAuthoritative source: https://www.retrorgb.com/n64.html\nGames listed under 256Kbit SRAM have save batteries: http://micro-64.com/database/gamesave.shtml\nN64 manuals: https://sites.google.com/view/n64manuals\nhttps://retrostage.net/?product=n64-blaster-2-0/\nWobbling Pixels recommends the following S-video cable: https://www.ebay.de/itm/233708952325#shpCntId\nN64 supports S-video without modification. See intro of https://youtu.be/XPV4LMic1R4\nSee also: https://www.retrorgb.com/n64cablecsync.html\nAnd https://insurrectionindustries.com/product/nintendo-s-video/\nBest bet: https://www.retrogamingcables.co.uk/SUPER-NINTENDO-NTSC-GAMECUBE-N64-S-VIDEO-SUPER-FAMICOM-CABLE-FULLY-SHIELDED-75-OHM?tracking=5543fb4c077bb\nA cheaper option: https://stoneagegamer.com/snes-n64-famicom-av-gamecube-s-video-cable-ttx.html\nNew funtastic shells: https://www.kickstarter.com/projects/trogg-tech/n64-the-new-funtastic-series\nRepair:\nOldSkool Sharpshooter thumbstick\nhttps://stoneagegamer.com/n64-replacement-joystick-repair-box.html\nhttps://stoneagegamer.com/nintendo-64-replacement-rear-rubber-feet-retro-frog.html\nhttps://stoneagegamer.com/replacement-gears-for-nintendo-64-controller-fix-broken-analog-sticks-n64.html\nhttps://steelsticks64.com/\nAwesome replacement part: https://steelsticks64.com/\nhttps://stoneagegamer.com/retro-fighters-brawler64-wireless-n64-controller-game-controller.html\nMy models:\nOriginal, purchased in-person in Richmond, KY: NS114992246\nNew, purchased on eBay: NS123443562 (sold)\n\nEmulators\nN64: No BIOS. Games are self-contained.\n\n\nAccessories\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-wireless-dongle-support-for-brawler64-and-tribute64\nhttps://retrofrog.net/collections/nintendo-64/products/nintendo-64-replacement-rear-rubber-feet"
-  },
-  {
-    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#wii",
-    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#wii",
-    "title": "Nintendo quickref",
-    "section": "Wii",
-    "text": "Wii"
-  },
-  {
-    "objectID": "retrogaming/original-hardware/nes/nintendo-quickref.html#switch",
-    "href": "retrogaming/original-hardware/nes/nintendo-quickref.html#switch",
-    "title": "Nintendo quickref",
-    "section": "Switch",
-    "text": "Switch\nhttps://en-americas-support.nintendo.com/app/answers/detail/a_id/22746/~/inquiries-about-leaving-the-nintendo-switch-console-docked\nhttps://www.reviewgeek.com/1036/should-you-buy-physical-or-digital-switch-games/\nhttps://stoneagegamer.com/retro85-mini-nes-cartridge-nintendo-switch-game-cases.html\nhttps://stoneagegamer.com/retro-fighters-duelist-wireless-controller-for-nintendo-switch.html\nhttps://nyxigame.com/product/nyxi-wizard-wireless-joy-pad/"
   },
   {
     "objectID": "retrogaming/original-hardware/ps1/how-to-softmod-your-ps1.html",
@@ -334,6 +334,34 @@
     "title": "Sega Genesis quickref",
     "section": "Dreamcast",
     "text": "Dreamcast\n\nCrazy Taxi\nCyber Troopers Virtual-On Oratorio Tangram\nIkaruga\nJet Set Radio\nResident Evil Code Veronica (was on Dreamcast first so I’m counting it)\nRez (also PS2)\nSega Bass Fishing\nShenmue\nShenmue 2\nSoulcalibur (missing the main single player mode)\nSpace Channel 5\nPier Solar and the Great Architects\nSonic Adventure 1\nSonic Adventure 2\nSlave Zero"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/snes/snes.html",
+    "href": "retrogaming/original-hardware/snes/snes.html",
+    "title": "SNES",
+    "section": "",
+    "text": "https://www.hdretrovision.com/snes"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/snes/snes.html#facts",
+    "href": "retrogaming/original-hardware/snes/snes.html#facts",
+    "title": "SNES",
+    "section": "Facts",
+    "text": "Facts\nSpeed: 3.6MHz 32768 colors 256 simultaneous colors 512 × 448 resolution 128 sprites 64 × 64 size"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/snes/snes.html#other",
+    "href": "retrogaming/original-hardware/snes/snes.html#other",
+    "title": "SNES",
+    "section": "Other",
+    "text": "Other\nGames with batteries: https://www.dkoldies.com/blog/complete-list-of-snes-games-with-save-batteries/\nScanned manuals: https://sites.google.com/view/snesmanuals"
+  },
+  {
+    "objectID": "retrogaming/original-hardware/snes/snes.html#emulators",
+    "href": "retrogaming/original-hardware/snes/snes.html#emulators",
+    "title": "SNES",
+    "section": "Emulators",
+    "text": "Emulators\nSNES9X (SNES) ZSNES (SNES)\nhttps://www.retrorgb.com/snestips.html https://castlemaniagames.com/collections/replacement-housings/products/snes-transparent-case?variant=39790161166418\nhttps://www.shapeways.com/product/MARFTPFQQ/unisn2-tray-for-snes-2?optionId=56237730"
   },
   {
     "objectID": "retrogaming/original-hardware/wii/getting-started-with-the-wii.html",

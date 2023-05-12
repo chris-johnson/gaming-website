@@ -1,0 +1,43 @@
+---
+title: "Guide to buying games"
+---
+
+## Supply and demand
+
+Selling price is a function of how many copies are available in the market. Example: EA Sports NCAA Football 14. Only a limited quantity were produced, and it can't be released digitally. When the retrogaming community started to grow, this game's selling price began to increase due to its rarity both in print and the market. Even with a limited copy produced, if all the copies were always for sale, then the price wouldn't rise. When there are more buyers than sellers, the price increases. How much depends on how many buyers.
+
+The other reason prices climb is due to fees associated with the purchase. Postage is an added cost, seller fees are another, and tax is a third. Sellers typically want to break even and recoup all the money they spent or make a profit. To do so, they have to include the added costs to the sale price. Since everyone has this mentality, the prices will continue to climb. At some point, someone has to take a loss.
+
+You only take a loss if you plan to sell. If you plan to keep, you have to weigh the purchase price against the value. Value is up to the individual. You need to decide what delta between price paid and value would cause you to sell. If the value decreases (played the game, but it's not replayable, or it wasn't your cup of tea), then you can start comparing market value vs. price paid.
+
+Why time is important:
+
+Need to consider the fact that turnover means the price has increased due to the added fees.
+
+Retrogaming on PlayStation:
+https://www.playstation.com/en-us/editorial/this-month-on-playstation/introducing-classic-arcade-games-you-can-play-on-ps5-and-ps4/
+
+https://en.m.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
+
+## Strategies
+
+Todo
+
+## Merchants
+
+### eBay
+
+Todo
+
+### Mercari
+
+Todo
+
+## GOG
+
+https://www.hp.com/us-en/shop/tech-takes/gog-vs-steam-drm-pros-and-cons
+
+## References
+
+https://www.ebay.com/help/selling/listings/creating-managing-listings/item-conditions-category?id=4765
+
