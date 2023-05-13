@@ -1,0 +1,55 @@
+---
+title: "Acquire PS2 games"
+---
+
+MC2SIO requires all games be in the ISO format. Most PS2 games were DVD-based, however some smaller games were CD-based. CD-based games tend to be backed up as a pair of files: bin and cue. While bin and cue work with PCSX2, some work is required to convert bin and cue to ISO files. This document details how to do that on Windows 11 in May 2023.
+
+Prerequisites:
+
+1. Install WSL, set up a username
+2. Buy a supported MicroSD card
+3. Install Virtual CloneDrive
+4. Install ImgBurn (strongly suggest Ninite)
+
+Virtual Clone Drive can be installed from https://www.elby.ch/en/products/vcd.html
+
+1. Launch WSL
+2. Go to ROM site, copy URL
+3. `cd` to where you want files to be downloaded
+4. `wget "url.goes.here"` (can use Shift + Insert to paste; a list of URLs can be passed too, I think with `i file-with-urls.txt`, need to double-check)
+5. Plug MicroSD into PC (I use SD adapter for MicroSD)
+6. If the game is DVD-based, copy it into the DVD folder. At this point, you can start over for the next game. If the game is CD-based, proceed.
+7. Right-click the bin file, hover over Open with..., and select Mount Files with Virtual CloneDrive. Note: If this isn't an option, Instead hover over Open with... and click "Choose another app" and find "Mount Files with Virtual CloneDrive".
+8. Launch ImgBurn, and choose the option to "Create image file from disc". (Virtual CloneDrive is tricking Windows into thinking the bin file is a disc that's inserted into an optical drive.) For Source, select ELBY CLONEDRIVE (E:) (or whatever it shows up as, with whatever "drive" assigned). For Destination, choose an output location and output filename.
+9. Click the disc-to-ISO button (which, when hovered over, shows "read", though I think "read and write" is more appropriate). If ImgBurn makes suggestions, accept them.
+10. Once complete, navigate to the ISO, copy it, and paste it in the CD folder on the MicroSD.
+11. In Windows File Explorer, right-click the virtual drive and select "Eject".
+
+## Notes
+
+I tried WinBin2ISO 6.06, but it wouldn't let me add the bin file. (The GUI looked different than the screenshot. My guess is it was a bug in the release.) This led me to try Virtual CloneDrive based on a conversation ca. 2019 in the official ImgBurn forum. There was talk about Daemon tools, but there was success with Virtual CloneDrive. After a Google search, I found instructions on how to install and use Virtual CloneDrive on University of Massachusetts Amherst's IT site, so I decided to give it a whirl&mdash;and glad I did!
+
+Note: The official site of WinBin2ISO is softwareok.com, specifically http://www.softwareok.com/?seite=Freeware/WinBin2Iso. It is hosted elsewhere, just like most freeware, but SoftwareOK is Nenad Hrg's site. (There are three variants: a dot-com, a dot-de, and a doe-eu.) Maybe a future release will be another option. I liked it because it was available as a portable app, meaning no installation necessary. Plus it was very lightweight. Too bad it didn't work. But since ImgBurn (as long as downloaded from Ninite) is probably in most people's workflow elsewhere, it was nice to be able to use it, albeit with Elby's Virtual CloneDrive.
+
+There was a comment on Reddit about mounting the cue file instead of the bin:
+
+> If you are trying to create a disc, you load the cue (not any of the bins) with imgburn it will burn correctly. Always use the cue... it has a table of contents that point to the bin files... essential for multiple bin games
+
+I'm not sure if there were any multi-disc CD-based games for the PS2. Most that I know of were for PS1 (e.g. Resident Evil 2, Fear Effect: Retro Helix). Most PS1 emulators can run bin and cue files directly. Not sure what Tonyhax does, as I just learned about it during the course of researching the solution this document outlines.
+
+Last note: OPL Manager can convert bin and cue files to ISO (and more). Since it is part of the FMCB tool suite, it's probably worth getting familiar with.
+
+Last note, seriously: `bchunk`. Check it out: https://github.com/extramaster/bchunk
+
+And one more for the road: It seems an alternative to Virtual CloneDrive is WinCDEmu. This was suggested by How to Geek at https://www.howtogeek.com/230468/how-to-mount-isos-and-other-disc-images-on-windows-mac-and-linux/. The program itself lives at SysProgs: https://wincdemu.sysprogs.org/.
+
+## References
+
+https://forum.imgburn.com/topic/25520-how-do-i-use-imgburn-to-make-an-iso-from-a-bin-and-a-cue-file/
+https://www.umass.edu/it/support/software/install-use-virtual-clonedrive-windows
+https://www.elby.ch/en/products/vcd.html
+http://www.softwareok.com/?seite=Freeware/WinBin2Iso
+https://www.howtogeek.com/281663/how-to-use-wget-the-ultimate-command-line-downloading-tool/
+https://heldergametech.com/shop/ps2/mc2sio-microsd-iso-loader/
+https://heldergametech.com/shop/ps2/free-mcboot-with-real-magicgate-memory-card/
+https://stackoverflow.com/questions/40986340/how-to-wget-a-list-of-urls-in-a-text-file

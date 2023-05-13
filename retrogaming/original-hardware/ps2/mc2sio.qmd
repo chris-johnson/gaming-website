@@ -1,0 +1,44 @@
+---
+title: "MC2SIO"
+---
+
+MC2SIO by Helder Game Tech.
+
+Helder's MC2SIO
+
+https://heldergametech.com/shop/ps2/mc2sio-microsd-iso-loader/
+
+Need MC2SIO and FreeMCBoot memory card. Note: OpenTuna is required for 90000-series models.
+
+Supported SD cards as of 2023-04-28:
+
+Kingston Canvas Select Plus 32GB
+TeamGroup 32GB and 256GB (TEAMGROUP GO Card 256GB Micro SDXC UHS-I U3 V30 4K)
+Onn 128GB brand from Walmart
+PNY brand 128GB or less
+Silicon Power 128GB Micro SD Card U3 SDXC on Amazon
+Lexar 32GB and 256GB
+Adata 32GB
+SAMSUNG EVO Select Micro SD Memory Card, 512GB (MB-ME512HA)
+Micro Center 512GB Class 10,UHS-I, C10, U1, V30, A1
+Lexar PLAY 1TB microSDXC UHS-I-Card(LMSPLAY001T-BNNNU)
+
+MicroSD cards larger than 1 TB don't work. MicroSD cards must be formatted to FAT32 or exFAT. FMCB is available here: [insert]. Alternatively, purchase a pre-configured FMCB card from Helder.
+
+Make your own: https://heldergametech.com/shop/ps2/free-mcboot-with-real-magicgate-memory-card/
+
+Not all games work...
+
+https://docs.google.com/spreadsheets/d/1zHxhwT4nSkrCCAqJNlSndw1Yeh_9g3eL/edit#gid=669997000
+
+If the LED is flashing, the adapter is working. Sometimes, the SD card needs to be removed and reinserted for the game list to be refreshed.
+
+To actually use it...
+
+1. Power off PS2
+2. Insert FMCB card into Slot 1, and MC2SIO card **without MicroSD card** into Slot 2
+3. Scroll down to OPL and launch it (by pressing "X")
+4. Select USB icon with "X" button.
+5. Insert the MicroSD card into MC2SIO, pins up. Wait for the games list to populate.
+6. Select a game to play, and press ecks button.
+

@@ -2,4 +2,73 @@
 title: "How to softmod your Wii"
 ---
 
-Softmodding the Wii, blah blah blah.
+Prerequisites:
+
+Update Wii to latest official firmware (OFW)
+Buy SD card, and format it to FAT32
+
+In the video I'm watching, a dongle is required to connect to the internet. Need to determine if it can be updated via other means, otherwise I'm going to have to buy a damn dongle.
+
+Go to internet connection settings. Choose wired or wireless connection. Run the test. No system update is necessary, so choose "No" when asked. Go back to connection settings, and select "use this connection" for the connection you just tested.
+
+Go to "change settings" and bypass screens until you get to the screen titled "Auto-Obtain DNS". Choose "No" because we're going to be setting these manually. Advanced Settings will appear. 
+
+Enter "18.188.135.9" into both the primary and secondary DNS boxes, then click save. The Wii will prompt you to test the connection, so allow it do so. When asked to do a system update, select "no".
+
+Next, go to "User Agreements". If asked "Would you like to use the Wii Shop Channel and WiiConnect24?", select "yes". Select "next" to read the TOS. You should see something that looks like a My Little Pony (wtf). This begins the exploit process.
+
+Click "Accept Me" to begin installing HackMii. Be patient. The Wii will look like it's hung up, but it's not. Some on-screen text and static images will appear, which is normal.
+
+Once complete, you'll be at the HackMii installer splash page. The Homebrew Channel will appear as "can be installed" but BootMii may show as "can only be installed as an IOS" and a message about boot2 injected with the BootMii loader didn't pass consistency checks. Click "continue" to go to the Main menu.
+
+There will be two options: "Install the Homebrew Channel" and "BootMii...". Arrow up and select the option to install the Homebrew Channel. Select and then confirm. Once finished, select "continue".
+
+Scroll down to "BootMii...". The BootMii menu has the following options: "Install BootMii as IOS", "Uninstall BootMii as IOS", and "Prepare an SD card". At this point, we need to prepare the SD card. Insert the FAT32-formatted SD card into the Wii. Select "Prepare an SD card", then chooes "yes, continue". Once the SD card is prepped, move the cursor up to "Install BootMii as IOS". The SD card will be mounted, and you'll be prompted to install BootMii. Select "yes, continue".
+
+Lastly, back out to the main menu, and then exit the HackMii installer. Exiting will take you to the Homebrew Channel.
+
+At this point, the Homebrew Channel will be empty as it is a fresh install and doesn't have any apps. (This is sort of similar to building up a FMCB memory card on the PS2.)
+
+Press the home button on the Wiimote to pull up a menu, and then select "Launch BootMii", which will take you to BootMii's main menu. The Wiimote won't work, so we'll need to set that up. In the meantime, the Wii's face buttons can be used to navigate. The power button will cycle through the options, and the reset button selects the option.
+
+Alternatively, if you have Wii model RVL-001 (I do) you can use a GameCube controller to navigate BootMii. (Neat.)
+
+It's a good idea to backup the Wii's NAND memory. Go to the options icon (gears icon). The first icon (chip with green arrow pointing to SD card) is the option to backup the NAND. (I'm guessing the second icon, which shows a red arrow *from* the SD card to the chip, is the option to flash the NAND?) This backup can be used to completely restore the Wii to factory settings in the event of a major fuck-up.
+
+Back out to the BootMii main menu, and then choose the Homebrew Channel icon.
+
+Now it's time to install some apps. The first app to install is Priiloader. On the PC, navigate to wii.guide/priiloader.html. Scroll to the section titled "What you need". Listed here is a link to the Priiloader installer. Download and extract the zip file. Inside of the unzipped folder is a folder named apps.
+
+Remove the SD card from the Wii and mount it into the PC. Copy `apps/` to the root of the SD card. Once copied, safely remove the SD card and re-insert it into the Wii.
+
+Go back to the Homebrew Channel. You'll see Priiloader Installer. Use the Wiimote to cursor over the Prilloader Installer, select it, and then choose "Load". Follow the on-screen instructions to install Priiloader.
+
+Power off the Wii. Once powered off, press and hold the reset button and the power button (basically at the same time, but the safe way is to do reset first to ensure it's pushed in when the power button sends its signal). This will boot the Wii directly into the Priiloader menu. Scroll down to System Menu Hacks.
+
+Enable the following:
+
+Block Disc Updates
+Block Online Updates
+Region Free Everything
+
+Move down to "save settings" and select it. On the Prilloader main menu, move up to "Homebrew Channel" to exit to the Homebrew Channel.
+
+Next, we'll install cIOS. Remove the SD card from the Wii. On the PC, go to wii.guide/cios. Scroll to find the section labeled "What you need" and find the link to download the d2x cIOS installer. Download and extract it. Inside of `d2x-cios-installer` will be a folder named `apps/`. "Copy" this to the SD card (it already exists, so we're really looking to merge it with the existing `apps/`). Safely remove the SD card from the PC and re-insert it into the Wii.
+
+The d2x Custom IOS Installer should appear in the Homebrew Channel. Cursor over it, then select it, then select "load". 
+
+The next bit is very important, as we're going to update some settings.
+
+For
+
+"Select cIOS", choose "v10 beta52 d2x-v10-beta52"
+"Select cIOS base", choose "57"
+"Select cIOS slot", choose "249" (may be default)
+"Select cIOS revision", choose "65535"
+
+Press "A" button twice to install. Once complete, press "A" to go back to the main menu.
+
+Do the same, but base 56, slot 250. "A" twice to install, then "A" once complete to go back to the main menu.
+Do the same, but base 38, slot 251. Again, "A" twice to install, then "A" once complete to go back to the main menu.
+
+Restart the Wii and cross your fingers...
