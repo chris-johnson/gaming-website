@@ -1,3 +1,23 @@
 ---
 title: "RPCS3"
 ---
+
+PlayStation 3 emulators require official PlayStation 3 firmware available for download from an official Sony website.
+
+## How to obtain PS3 firmware
+
+PlayStation 3 emulators require official PlayStation 3 firmware available for download from an official Sony website. Official PS3 firmware download:
+https://www.playstation.com/en-us/support/hardware/ps3/system-software
+
+## RPCS3
+
+Quickstart guide:
+https://rpcs3.net/quickstart#dumping_procedure
+
+## About RPCS3
+
+Website offers a compatibility search utility for determining if a game can run as well as additional metadata and links to a wiki.
+
+https://rpcs3.net/compatibility
+
+RPCS3 can only read from a few models of optical drives.

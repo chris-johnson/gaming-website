@@ -1,0 +1,5 @@
+---
+title: "AetherSX2"
+---
+
+AetherSX2 is a PS2 emulator for Android-based systems.

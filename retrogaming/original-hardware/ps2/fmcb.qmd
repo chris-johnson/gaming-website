@@ -1,0 +1,51 @@
+---
+title: "Free MC Boot (FreeMCBoot)"
+---
+
+## How to create a FMCB memory card
+
+DVD-R
+Optical drive
+USB A thumb drive
+PS2 memory card (must be MagicGate)
+ImgBurn (or comparable)
+GUIFormat (if USB A drive is larger than 32 GB)
+7-Zip (or Zipware)
+
+Get PS2 info:
+
+Boot PS2, press triangle button to view Version Information
+
+Console
+Browser
+CD Player
+PlayStation Driver
+DVD player (firmware)
+
+Format 
+
+Burn Free DVD Boot:
+
+Make note of DVD firmware
+Visit FreeDVDBoot compat list and make sure your config is compatible
+Visit FDVDB's GitHub
+Go to pre-built ISOs, and download the appropriate one
+Use ImgBurn to burn the ISO to the DVD-R
+
+Download FreeMcBoot:
+
+Visit ps2-home.com
+Download FMCB
+Format thumb drive as FAT 32
+Extract with 7-zip
+Cut and paste extracted files to thumb drive
+
+Install FMCB on memory card:
+
+Power off PS2 if turned on
+Plug in thumb drive, memory card, and controller
+Power on PS2 and insert the FreeDVDBoot DVD disc. This will launch uLaunchElf.
+Navigate to `mass:/name-of-folder-with-extract/`, then select `FMCBInstaller.elf` to launch the FMCB installer. Select Install, and choose Normal.
+Eject FDVDB and remove thumb drive.
+
+You now have a FMCB memory card. But it doesn't have any apps. Available apps:

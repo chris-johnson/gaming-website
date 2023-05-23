@@ -1,0 +1,35 @@
+---
+title: "PlayStation 1 emulation guide"
+---
+
+## Dumping PS1 BIOS files
+
+PlayStation 1 (PS1) emulators require official BIOS files. These can legally be dumped from personally-owned hardware or extracted from the PlayStation 3 (PS3) firmware. The PS1 BIOS can be dumped from a PS1 or the PlayStation Classic (PSC).
+
+### How to dump the PS1 BIOS from an original PS1
+
+Tools needed:
+
+<input type="checkbox"> PS1
+<input type="checkbox"> BIOS dumper: https://github.com/ShendoXT/biosdumper/releases/tag/2.6
+<input type="checkbox"> Other stuff (add later)
+
+### How to dump the PS1 BIOS from the PlayStation Classic (PSC)
+
+Tools needed:
+
+<input type="checkbox"> PSC
+<input type="checkbox"> AutoBleem: https://github.com/autobleem/AutoBleem
+<input type="checkbox"> Other stuff (add later)
+
+### How to extract the PS1 BIOS from the PS3 firmware
+
+Tools needed:
+
+<input type="checkbox"> Windows PC
+<input type="checkbox"> PS3 firmware
+<input type="checkbox"> PS Bios Claim Tool
+
+The PS Bios Claim Tool is available at https://archive.org/details/firmware_bios_claim_release1
+
+I’ve also downloaded it and uploaded it to my cloud storage.

@@ -1,0 +1,10 @@
+---
+title: "How to back up your PS1 games"
+---
+
+Tools needed:
+
+<input type="checkbox"> Windows PC
+<input type="checkbox"> ImgBurn (get using Ninite)
+
+Use ImgBurn to create BIN/CUE files.

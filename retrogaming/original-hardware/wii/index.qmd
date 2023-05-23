@@ -3,4 +3,7 @@ title: "Index for Wii"
 subtitle: "I don't know what I'm doing"
 ---
 
-No really, I don't know what I'm doing.
+## Unsorted
+
+Wii troubleshooting
+https://www.nintendo.co.uk/Support/Wii/Troubleshooting/Wii-Remote-Controllers-amp-Sensor-Bar/Cursor-not-appearing/Cursor-not-appearing-244279.html

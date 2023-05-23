@@ -1,0 +1,44 @@
+---
+title: "How to dump **your** PS2 BIOS"
+---
+
+Special emphasis on *your BIOS.
+
+## biosdrain
+
+https://github.com/F0bes/biosdrain/releases
+
+TODO: How to use biosdrain.
+
+## Dumping PS2 BIOS files
+
+All PlayStation 2 (PS2) emulators require official PS2 BIOS files. There are now two legal ways to obtain these:
+
+* dump them from original hardware that you own, or 
+* extract them from PlayStation 3 (PS3) firmware.
+
+Note: The tools needed to dump the PS2 BIOS files from original hardware will be specific to the PS2 model you’re using. The 30000 to 70000 series use FreeMCBoot. Some of the 90000 series consoles can use FreeMCBoot as well, while others require Fortuna or other solutions.
+
+### How to dump PS2 BIOS files from 30000, 50000, 70000, and some 90000 series consoles
+
+Tools needed:
+
+<input type="checkbox"> PS2
+<input type="checkbox"> FreeMCBoot memory card
+<input type="checkbox"> thumb drive formatted to FAT 32
+
+### How to dump PS2 BIOS files from 90000 series consoles
+
+Tools needed
+
+<input type="checkbox"> PS2
+<input type="checkbox"> Fortuna memory card
+<input type="checkbox"> thumb drive formatted to FAT 32
+
+### How to extract PS2 BIOS files from PS3 firmware
+
+Tools needed:
+
+<input type="checkbox"> Windows PC
+<input type="checkbox"> PS3 firmware
+<input type="checkbox"> tool from Internet Archive (name goes here)

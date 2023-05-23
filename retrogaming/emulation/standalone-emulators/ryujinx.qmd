@@ -1,0 +1,10 @@
+---
+title: "Ryujinx"
+---
+
+Ryujinx is a Nintendo Switch emulator.
+
+Ryujinx.com
+Double-click Ryujinx application (no need to install)
+Need firmware and product keys
+Tools > install firmware

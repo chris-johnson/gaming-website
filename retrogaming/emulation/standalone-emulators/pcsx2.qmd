@@ -1,3 +1,9 @@
 ---
 title: "PCSX2"
 ---
+
+https://docs.libretro.com/library/pcsx2/
+
+PCSX2 can read from *any* optical drive.
+
+Compatability: https://pcsx2.net/compat/

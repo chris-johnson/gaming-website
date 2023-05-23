@@ -2,4 +2,62 @@
 title: "How to softmod your PS3"
 ---
 
-Todo.
+## Topics to cover
+
+* CFW vs. HFW vs. HEN
+* PS3 Homebrew Enabler (HEN)
+* Apps (homebrews?):
+* multiMAN (Multi Manager)
+* IRISMAN
+* webMAN
+
+Techopedia defines *homebrew* as
+
+> a term that for all intents and purposes means hacking, specifically hacking closed computer systems and opening them for other functions and producing homemade software for that platform.
+
+## PS3 HEN install
+
+PS3 must be online
+Need FAT32-formatted USB drive
+Need Hybrid Firmware (HFW)
+Most recent version of HFW is hosted at Mega.nz
+Download it. It will be a zip.
+
+USB drives larger than 32 GB may need guiformat
+
+Unzip the HFW zip. Inside is a folder named PS3. Copy it to the USB drive.
+Remove the USB drive from the PC and plug it into the right-most USB port on the PS3.
+Confirm that you can see the USB drive. It should be on under photos.
+
+Under settings, turn off automatic system update. This keeps official firmware updates from overwriting the HFW. Also in settings, turn off Display What's New. Again, in settings, go to System Update, and select Update via Storage Media. This installs the HFW. Follow on-screen instructions. Note: If it looks hung up, press the PS button on the DualShock 3. The PS3 will reboot. Once at the XMB, run the process again. The reason for this is there are two slots in the flash storage, and we want both to be overwritten.
+
+Once complete, launch the internet browser. Press triangle to open the sidecar menu. Tools, turn off confirm browser close. Tools, set homepage as use blank page. Tools, delete cookies, delete search history, delete cache, delete authentication information. Close browser.
+
+Re-open browser. Press start to open virtual keyboard. Visit ps3xploit.me. Press start twice. Find PS3 Hen, then download HEN auto-installer.
+
+Add bookmark: Press select, then select add to bookmarks. After adding the bookmark, it may attempt to download the file again. Just choose do not save (you already have it).
+
+Click the button labeled auto install HEN on the webpage. The installer will probably fail. Close out of the browser, then reopen. Use the bookmark to open the page. When prompted to download the file, do it. Then click auto install HEN. This should take you to the XMB. You'll see a file downloading overlay appear. Once downloaded, press circle. An installation will start. Once complete, press circle. The PS3 should restart on its own. If it doesn't, power it completely off and then turn it back on.
+
+The PS3 will open to the XMB with Enable HEN selected. Click it and let HEN work. Once back at the XMB, success can be confirmed if the package manager is below Enable HEN. Note: There won't be any packages. Next step: Install MultiMAN.
+
+## MultiMAN
+
+How to install MultiMAN
+MultiMAN install: https://youtu.be/e1lm4wFjku4
+How to back up PS3 games
+Dumping games: Copy to hard drive or create ISO
+
+Prereq: Format thumbdrive as FAT32. Quality of life: Label volume "PS3". Quick format is fine.
+
+Plug thumbdrive into PS3. Start MultiMAN. Put disc into drive. May need to refresh. Press triangle, then select "Create ISO". It gives the option to create it on the internal HDD or the USB. Once complete, you'll be returned to the main menu.
+
+Transfer ISOs to computer:
+
+Note: Show hidden files in File Explorer.
+
+There will be a folder structure: PS2ISO, PS3ISO, and PSXISO.
+
+* In PSXISO and PS2ISO, for each game, you should have two files: a bin file and a cue file.
+* In PS3ISO, you will have an iscue file, a png file, and one or more ISO files.
+

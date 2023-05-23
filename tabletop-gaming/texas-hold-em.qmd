@@ -1,0 +1,141 @@
+---
+title: "Texas Hold'em"
+---
+
+## Overview
+
+Texas Hold'em is a winner-takes-all or winners-take-all game—specifically an elimination game. It is played with a standard 52-card deck.
+
+### Game parameters
+
+A game marked $1/$2 means small blind is $1 and big blind is $2.
+
+In tournaments, the blinds are increased over time to end the game faster. Sometimes, these are given as levels, and each level has a minimum bet.
+
+## Poker hand terminology
+
+A hand qualifies as a *straight* if the five cards can be arranged in a consecutive sequence; a special straight is the royal straight, which consists of 10, J, Q, K, A. A hand qualifies as a *flush* if all cards are of the same suit.
+
+These can co-occur in a hand as a *straight flush* and *royal flush*, which are autological terms.
+
+A *pair* is when two of the same card appear in a hand, with two pairs possible. The term *kind* is used when three or four of the same card appears in a hand.
+
+A *full house* is the special situation when a hand has three of a kind with a pair.
+
+Lastly, the *high card* of a hand is the card with the highest rank.
+
+All in is all of chips.
+
+## Poker hand rankings
+
+All of the possible hands can be formed using the terminology in the previous section. The following is a best-to-worst ranking of hands:
+
+1. Royal flush
+2. Straight flush
+3. Four of a kind
+4. Full house
+5. Flush
+6. Straight
+7. Three of a kind
+8. Two pair
+9. Pair
+10. High card
+
+## Hold'em-specific terms explained
+
+Texas Hold'em is an elimination game with a hierarchy, so this means the game can continue indefinitely. Parameters that influence the game length are number of players, their skill level, and amount of luck.
+
+The game is a series of hands, and each hand has a series of betting rounds.
+
+A bet is an amount of money which the player is willing to risk based on an outcome being in their favor. In Texas Hold'em, there are two ways that the outcome can be in your favor:
+
+* making others at the table think you have the best hand (known as a *bluff*) causing them to cut their losses (known as a *fold*)
+* actually having the best hand
+
+The *pot* is a designated place on the table where bets are placed each round.
+
+There are three actions that are available in all rounds. A *call* is one of the actions you can take, which simply means matching the bet of the player seated to your right. A *raise* increases the amount every player to your left must match to remain the game. If any of the other players don't want to or can't match, then they *fold* and they forfeit their contributions to the pot (cut their losses).
+
+A *check* is a fourth action only available in Rounds 2–4 (described later).
+
+Each player is dealt two private cards called the *hole cards*. A set of community cards 
+
+The *muck* is where folded cards are placed (remaining face down). The *board* is the designated area on the table where the community cards are placed.
+
+For the remainder of the document, Big Blind and Small Blind are roles, whereas big blind and small blind are amounts.
+
+A re-raise is raising after previous raises.
+
+## How to play a hand
+
+Putting together a hand occurs over four betting rounds:
+
+1. Pre-flop round
+2. Flop round
+3. Turn round
+4. River round
+
+In the Pre-Flop round, the player to the left of the Big Blind starts the betting circuit. In the remaining rounds, the Small Blind starts the betting circuit.
+
+In general, play occurs around the table clockwise. All players have to pay to play. To make it through each round, you have to make an equal contribution to the pot, otherwise you have to fold.
+
+A hand can end at any round. This occurs when a raise (in the pre-flop round) or a bet or raise (in the remaining rounds) causes all other players to fold. When this occurs, the pot goes to the remaining player.
+
+### Dealing hole cards
+
+The Dealer shuffles the cards, and deals around the table in two cycles, one card per cycle, starting with the player to their left. Once every player has two cards, the Pre-Flop round commences.
+
+### Pre-Flop round
+
+The betting circuit starts with the player to the left of the Big Blind, who has three options:
+
+* Fold (throw cards away)
+* Call (match bet)
+* Raise
+
+If any player chooses to raise, they become the new start of the circuit. The round ends when the circuit completes. All players who haven't folded will have contributed the same amount of money to the pot.
+
+### The remaining rounds
+
+In the remaining rounds, the Small Blind begins the betting circuit. This player has five options:
+
+* Fold (throw cards away)
+* Check (do nothing)
+* Bet (done once, removes check option)
+* Call (match bet)
+* Raise
+
+Recall a check is a pass. The betting round circuits can complete with checks, however in a round, a bet removes checking as an option.
+
+Each of the rounds builds the community set. Before contributing cards to the community set, the top card is burned. The remaining rounds are named after the community cards. The Flop is a set of three cards, and the Turn and River are each one card.
+
+#### Flop round
+
+#### Turn round
+
+#### River round
+
+Two hole, three board
+One hole, four board
+Zero hole, five board (chopped pot)
+
+### Showdown
+
+The active players reveal their hole cards in the showdown. The player with the best hand wins the pot. In the event two or more players have equivalent
+
+## Already described?
+
+Call is equal to big blind
+Initial raise must be double the big blind
+
+At the beginning of each round, a contribution to the pot is made prior to the start of play. This contribution is made by the two players who sit left of the dealer. The player directly to the left of the dealer is referred to as the Small Blind. The player two seats to the left of the dealer is referred to as the Big Blind.
+
+A blind is a forced bet. The amounts are predetermined before the game. It ensures there is money to be made each hand.
+
+## Other topics
+
+Strategy
+
+Position at the table matters. Players who start the betting are at a disadvantage because they have the least amount of information available to them to choose an action, whereas the player to their right has the most information. This is why the Blind roles are re-assigned counter-clockwise prior to the start of each hand.
+
+
