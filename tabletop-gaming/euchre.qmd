@@ -1,0 +1,53 @@
+---
+title: "Euchre"
+---
+
+## What's needed to play
+
+* Four people
+* Standard 52-card deck
+* A table
+* Some medium for recording the score (pen and paper, note app on phone, etc.)
+
+## Overview
+
+Euchre is card game for four people. The four people are divided into two teams of two players. The objective of Euchre is for your team to score 10 points before the other team does. For simplicity, let's refer to the two Teams as A and B. After choosing teams, the players situate themselves at the table such that players on the same team sit opposite of each other.
+
+Next, the deck is prepared. Euchre only uses 24 of the 52 cards. Remove cards 2&ndash;8 for each suit and put them elsewhere as they're never used. The remaining cards are the 9, 10, jack, queen, king, and ace from each suit (6 cards &times; 4 suits = 24 cards). Each card within a suit has a default rank, with the ace being the highest-ranked card and the 9 being the lowest-ranked card.
+
+One of the players is chosen as the dealer. The dealer shuffles the cards, and as a courtesy, asks the player to their right if they'd like to split the deck. Regardless, the dealer then shuffles the cards clockwise (to their left) around the table until each player has five cards. Typically, the dealer deals 3 cards to the player to their left, 2 cards to their teammate, 3 cards to the player on their teammate's left, and 2 cards to themself. Then they reverse the sequence, dealing 2 cards to the player to their left, 3 cards to their teammate, 2 cards to the player to the left of their teammate, and finally 3 cards to themself. More clearly, the dealing order is clockwise, dealt in the sequence 3-2-3-2-2-3-2-3. The result is a five-card *hand*.
+
+At this point, the deck has 4 cards remaining, known as *the kitty*. The dealer places the kitty in front of themself, and flips the card on top over. The next step is to determine the trump suit.
+
+## Determining the trump suit
+
+Play goes clockwise around the table, and the player to the left of the dealer starts play. Before playing the first trick, the *trump suit* has to be determined. In this step, everyone considers the card that's face-up on the kitty. The player to the left of the dealer has two options: pass the decision to the next player or make the suit of the face-up card the trump suit. If the latter, the dealer has to add the face-up card to their hand and discard one of their original 5 cards. (At this point, the kitty is placed outside of the playing area. Its cards are not used for the remainder of the hand.) The first trick would then be played. If the player to left of the dealer passes, then the dealer's teammate has the same choices: pass or make the suit of the face-up card the trump suit. If the player to the left of the dealer's teammate passes, the dealer has the same choices: pass or make. If the dealer passes, then the face-up card is flipped face-down. The suit of that card is excluded as a choice for the trump suit, leaving three candidate suits. Now the player to the left of the dealer has two choices: pass or make one of the three suits trump. If all players pass, then the dealer *must* choose the trump suit.
+
+During this process, team attibutes are determined. When a player makes a suit trump suit, their team becomes *The Makers*, and the other team becomes *The Attackers*. ("Makers" is for *making the trump suit*, to be explained. "Attackers" is the better term when juxtaposed with "Defenders".) This attribute is important because it determines how the winning team's score is calculated at the end of the hand.
+
+Lastly, the card ranks get updated based on the suit selected as the trump suit. The jack of the trump suit becomes the highest-ranked card in the deck, followed by the off-suit jack of the same color. The relative ranks of the other cards within the trump suit retains the same order (ace, king, queen, 10, 9), as do the ranks of the off-suit-same-color cards. The ranks of the off-suit-off-color cards remain unchanged.
+
+## Playing a trick
+
+Each of the players put a single card from their hand down for a total of four cards. These four cards are called a *trick*. (Because there are five cards in a hand, there are five tricks in a hand.) The player to the left of the dealer places a card from their hand to the center of the table. The suit of this card is called the *lead suit*. All other players *must* play a card of this suit *if* they have one. If they do not, then they can play any other card.
+
+The four cards on the table are referred to as *the trick*. One player wins the trick for their team.
+
+### How to determine who wins the trick
+
+The player who played the card with the highest rank wins the trick for their team.
+
+## Playing the rest of the tricks and scoring the outcome
+
+The remaining four tricks are played exactly the same. Recall that, for the hand, one team is The Attackers (or The Makers) and the other team is The Defenders.
+
+* If The Attackers win, they get 1 point for winning 3 or 4 tricks, and 2 points for winning all 5 tricks.
+* If The Defenders win, they get 2 points for winning 3 or 4 tricks (sometimes called a *euchre*), and 4 points if they win all five tricks.
+
+## Winning the game
+
+Hands continue to be dealt until one of the teams scores 10 points.
+
+## The last twist: Going alone
+
+The player who decides the trump suit can choose to *go alone*, meaning they play without their fellow attacker. If the lone attacker wins all five tricks, they get 4 points. (No other rules change.)
